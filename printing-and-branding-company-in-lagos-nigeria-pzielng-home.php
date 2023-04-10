@@ -543,7 +543,7 @@ Category START -->
                                     <div class="card bg-transparent">
                                         <img class="card-img" src="assets/products/A4-A5-A6-notepad-jotter-design-&-printing-quality.jpg" alt="best quality Hard Cover jotter Design & printing in lagos abuja nigeria" title="hard cover spiral jotter Design & printing">
                                         <div class="card-body ps-0">
-                                            <h5 class="mb-0"><a href="#" class="stretched-link">Notepad/Jotter</a></h5>
+                                            <h5 class="mb-0"><a href="notepad-jotter-printing.html" class="stretched-link">Notepad/Jotter</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -552,7 +552,7 @@ Category START -->
                                     <div class="card bg-transparent">
                                         <img class="card-img" src="assets/products/company-business-standard-id-card-design-&-printing-in-lagos-nigeria.jpg" alt="Best quality ID card Design & Printing in lagos, nigeria." title="ID card Design & Printing">
                                         <div class="card-body ps-0">
-                                            <h5 class="mb-0"><a href="#" class="stretched-link">Brand Identity Card</a></h5>
+                                            <h5 class="mb-0"><a href="standard-id-card-printing.html" class="stretched-link">Brand Identity Card</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -570,7 +570,7 @@ Category START -->
                                     <div class="card bg-transparent">
                                         <img class="card-img" src="assets/products/a2-a3-a1-large-gift-shopping-paper-bag-design-and-printing.jpg" alt="best qulaity paper bag printing in lagos Abuja Nigeria." title="lanscape paper bag design & printing">
                                         <div class="card-body ps-0">
-                                            <h5 class="mb-0"><a href="#" class="stretched-link">Shopping Bag</a></h5>
+                                            <h5 class="mb-0"><a href="shopping-paper-bag-print.html" class="stretched-link">Shopping Bag</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -579,7 +579,7 @@ Category START -->
                                     <div class="card bg-transparent">
                                         <img class="card-img" src="assets/products/id-card-holder-id-card-rope-id-card-lanyard-print.jpg" alt="card image">
                                         <div class="card-body ps-0">
-                                            <h5 class="mb-0"><a href="#" class="stretched-link">Lanyard/ID Card Holder </a></h5>
+                                            <h5 class="mb-0"><a href="standard-id-card-printing.html" class="stretched-link">Lanyard/ID Card Holder </a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -587,7 +587,7 @@ Category START -->
                                     <div class="card bg-transparent">
                                         <img class="card-img" src="assets/products/business-company-brand-complimentary-card.jpg" alt="best qulaity business card printing in lagos Abuja Nigeria africa" title="business card printing in lagos nigeria africa">
                                         <div class="card-body ps-0">
-                                            <h5 class="mb-0"><a href="#" class="stretched-link">Business Card</a></h5>
+                                            <h5 class="mb-0"><a href="standard-business-card-printing.html" class="stretched-link">Business Card</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -615,7 +615,7 @@ Best selling product START -->
                 <div class="row g-4">
 
                     <!-- Product item START -->
-                    <div class="col-sm-6 col-md-4 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <div class="position-relative">
                                 <!-- Image -->
@@ -651,7 +651,7 @@ Best selling product START -->
                     <!-- Product item END -->
 
                     <!-- Product item START -->
-                    <div class="col-sm-6 col-md-4 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
                             <a href="shop-detail.html"><img class="card-img" src="assets/products/box branding in lagos abuja nigeria.jpg" alt="box branding with foil effect" title="box branding with foil effect"></a>
@@ -684,7 +684,7 @@ Best selling product START -->
                     <!-- Product item END -->
 
                     <!-- Product item START -->
-                    <div class="col-sm-6 col-md-4 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
                             <a href="wedding-invitation-card-printing.html#premiumWeddingCard"><img class="card-img" src="assets/products/quality-gold-foil-wedding-invitation-invite-card-design-and-printing.jpg" alt="premium wedding invitation card design & printing in lagos nigeria africa" title="Gold foil wedding invitation card"></a>
@@ -715,7 +715,7 @@ Best selling product START -->
                     <!-- Product item END -->
 
                     <!-- Product item START -->
-                    <div class="col-sm-6 col-md-4 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
                             <a href="tshirt-printing.html"><img class="card-img" src="assets/products/tshirt-cloth-top-design-and-print.jpg" alt="tshirt design & printing in lagos nigeria africa" title="tshirt design & printing in lagos nigeria"></a>
@@ -746,7 +746,7 @@ Best selling product START -->
                     <!-- Product item END -->
 
                     <!-- Product item START -->
-                    <div class="col-sm-6 col-md-4 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
                             <a href="shop-detail.html"><img class="card-img" src="assets/products/van-car-bus-branding-right-side-view.jpg" alt=""></a>
@@ -779,7 +779,7 @@ Best selling product START -->
                     <!-- Product item END -->
 
                     <!-- Product item START -->
-                    <div class="col-sm-6 col-md-4 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
                             <a href="premium-business-card-printing.html#premiumCard"><img class="card-img" src="assets/products/gold-foil-business-card-best-quality.jpg" alt="Best quality gold-foil-business card design and printing in lagos nigeria" title="Premium Gold foil Business Card "></a>
@@ -810,7 +810,7 @@ Best selling product START -->
                     <!-- Product item END -->
 
                     <!-- Product item START -->
-                    <div class="col-sm-6 col-md-4 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
                             <a href="shopping-paper-bag-print.html"><img class="card-img" src="assets/products/a2-a3-a1-large-gift-shopping-paper-bag-design-and-printing.jpg" alt="Best shopping Paper bag Design & printing in Lagos nigeria" title="shopping paper bag design & printing"></a>
@@ -841,7 +841,7 @@ Best selling product START -->
                     <!-- Product item END -->
 
                     <!-- Product item START -->
-                    <div class="col-sm-6 col-md-4 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
                             <a href="notepad-jotter-printing.html"><img class="card-img" src="assets/products/jotter-diary--memo-wedding-jotter-print-front.jpg" alt=""></a>
@@ -870,6 +870,36 @@ Best selling product START -->
                         </div>
                     </div>
                     <!-- Product item END -->
+                    <!-- Product rating START -->
+                    <div id="item-5">
+                        <div class="border p-3 p-md-5 rounded mb-3">
+                            <h4>Service rating</h4>
+                            <div class="d-flex mt-4">
+                                <div class="me-3">
+                                    <div class="icon-xl rounded-circle bg-opacity-10 text-primary">8.5</div>
+                                </div>
+                                <p>"I had an excellent experience using <b>Pzielng.</b> Their team was incredibly professional and helpful, guiding me through the entire printing process step by step. The quality of their printing is exceptional, with vibrant
+                                    colors and crisp details. I was also impressed by the turnaround time - my prints were ready much faster than expected! Above all, the customer service I received throughout was truly outstanding, making this company
+                                    a pleasure to work with. I highly recommend <b>Pzielng.</b> for all your printing needs!"
+                            </div>
+                            <!-- Progress bar item -->
+                            <h6 class="mt-4">Price</h6>
+                            <div class="progress progress-percent-bg progress-md">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated bg-info" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"><span class="progress-percent">8.0</span></div>
+                            </div>
+                            <!-- Progress bar item -->
+                            <h6 class="mt-4">Design</h6>
+                            <div class="progress progress-percent-bg progress-md">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"><span class="progress-percent">7.5</span></div>
+                            </div>
+                            <!-- Progress bar item -->
+                            <h6 class="mt-4">Quality </h6>
+                            <div class="progress progress-percent-bg progress-md">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"><span class="progress-percent">9.5</span></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--rating end-->
 
                 </div>
                 <!-- Product END -->
@@ -877,7 +907,7 @@ Best selling product START -->
         </section>
         <!-- =======================
 Best selling product END -->
-        <div class="container my-2 my-md-4 mx-auto" style="width:200px"> <a class="btn btn-primary-soft " href="#"> LEARN MORE ABOUT US</a></div>
+        <div class="container my-2 my-md-4 mx-auto" style="width:200px"> <a class="btn btn-primary-soft " href="about-pzielng.html"> LEARN MORE ABOUT US</a></div>
 
 
 
