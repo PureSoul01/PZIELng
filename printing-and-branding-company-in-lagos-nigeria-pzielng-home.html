@@ -112,7 +112,7 @@
         <nav class="navbar navbar-expand-xl">
             <div class="container">
                 <!-- Logo START -->
-                <a class="navbar-brand" href="printing-and-branding-company-in-lagos-nigeria-pzielng-home.php">
+                <a class="navbar-brand" href="printing-and-branding-company-in-lagos-nigeria-pzielng-home.html">
                     <img class="navbar-brand-item light-mode-item" src="assets/logo&favicon/pzielLogoDark.png" alt="Pziel logo">
                     <img class="navbar-brand-item dark-mode-item" src="assets/logo&favicon/PZIEL LOGO.png" alt="Pziel logo">
                 </a>
@@ -130,7 +130,7 @@
 
                         <!-- Nav item 1 Demos -->
                         <li class="nav-item dropdown">
-                            <a class="nav-link active" href="printing-and-branding-company-in-lagos-nigeria-pzielng-home.php" id="homeMenu" aria-expanded="false">HOME</a>
+                            <a class="nav-link active" href="printing-and-branding-company-in-lagos-nigeria-pzielng-home.html" id="homeMenu" aria-expanded="false">HOME</a>
                         </li>
 
                         <li class="nav-item dropdown">
@@ -926,7 +926,7 @@ Footer START -->
                     <!-- Item -->
                     <div class="mb-4 position-relative">
                         <div>
-                            <a href="  printing-and-branding-company-in-lagos-nigeria-pzielng-home.php" class=" mb-2 align-items-center"><img src="assets/logo&favicon/PZIEL LOGO.png" alt="website design, graphics design and printing in lagos nigeria africa" width="130px" height="auto"></a>
+                            <a href="  printing-and-branding-company-in-lagos-nigeria-pzielng-home.html" class=" mb-2 align-items-center"><img src="assets/logo&favicon/PZIEL LOGO.png" alt="website design, graphics design and printing in lagos nigeria africa" width="130px" height="auto"></a>
                         </div>
                     </div>
                 </div>
@@ -937,7 +937,7 @@ Footer START -->
                     <div class="row">
                         <div class="col">
                             <ul class="nav flex-column text-primary-hover">
-                                <li class="nav-item"><a class="nav-link pt-0" href="  printing-and-branding-company-in-lagos-nigeria-pzielng-home.php">Home</a></li>
+                                <li class="nav-item"><a class="nav-link pt-0" href="  printing-and-branding-company-in-lagos-nigeria-pzielng-home.html">Home</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#">All Products</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#port">Porfolio</a></li>
                                 <li class="nav-item"><a class="nav-link" href="about-pzielng.html">About Us</a></li>
