@@ -6,7 +6,7 @@
     <!-- Meta Tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="author" content="PZIEL">
+    <meta name="author" content="PZIELng">
     <meta name="description" content="Best Company that provides quality printing and unique graphics design in lagos abuja Nigeria.">
 
 
@@ -85,7 +85,7 @@
         })
     </script>
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/logo&favicon/pzielFavicon.png">
+    <link rel="shortcut icon" href="assets/logo&favicon/pzielFavicon.png" alt="pziel logo, pzielng logo icon, top creative design and Best Printing and Branding company in lagos, abuja nigeria, africa." title="pzielng logo, pziel logo">
 
     <!-- Google Font -->
     <link rel="preconnect" href="https://fonts.gstatic.com/">
@@ -103,8 +103,8 @@
 <body>
     <!-- Pre loader -->
     <div class="preloader">
-        <div class="preloader-item"><img src="assets/logo&favicon/pziel-logo-icon.svg" class="light-mode-item" alt="pziel logo icon">
-            <img src="assets/logo&favicon/pziel-logo-icon-dark.svg" class="dark-mode-item" alt="pziel logo icon">
+        <div class="preloader-item"><img src="assets/logo&favicon/pziel-logo-icon.svg" class="light-mode-item" alt="pziel logo icon, pzielng logo icon">
+            <img src="assets/logo&favicon/pziel-logo-icon-dark.svg" class="dark-mode-item" alt="pziel logo icon, pzielng logo icon">
         </div>
     </div>
     <header class="navbar-light navbar-sticky header-static">
@@ -938,7 +938,7 @@ Footer START -->
                         <div class="col">
                             <ul class="nav flex-column text-primary-hover">
                                 <li class="nav-item"><a class="nav-link pt-0" href="  printing-and-branding-company-in-lagos-nigeria-pzielng-home.html">Home</a></li>
-                                <li class="nav-item"><a class="nav-link" href="#">All Products</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#pagesmenu">All Products</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#port">Porfolio</a></li>
                                 <li class="nav-item"><a class="nav-link" href="about-pzielng.html">About Us</a></li>
                                 <li class="nav-item"><a class="nav-link" href="contact-pzielng.html">Contact Us</a></li>
