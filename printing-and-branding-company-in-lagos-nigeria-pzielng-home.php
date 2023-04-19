@@ -420,7 +420,7 @@ Main hero START -->
                                                 <br>PZIEL give your brand a unique and creative design finished with top notch material making your brand outstaanding from others.</p>
 
                                             <!-- Buttons & Price -->
-                                            <a href="tel:09074456846" class="btn btn-primary mb-0">Call us today</a>
+                                            <a href="tel:+2349074456846" class="btn btn-primary mb-0">Call us today</a>
 
                                             <!-- Rating -->
                                             <div class="d-flex mt-4">
@@ -953,7 +953,7 @@ Footer START -->
                     <ul class="nav flex-column text-primary-hover">
                         <li class="nav-item"><a class="nav-link" href="contact-pzielng.html"><i class="fs-5 bi bi-geo-alt me-3"></i>34, Oguntolu Street Shomolu, Lagos, Nigeria</a></li>
                         <li class="nav-item"><a class="nav-link" href="mailto:pzielng@gmail.com"><i class="far fa-envelope fa-fw me-3"></i> pziel.ng@gmail.com</a></li>
-                        <li class="nav-item"><a class="nav-link" href="tel:07040004215"><i class="fas fa-headphones-alt fa-fw me-3"></i> +234 704 000 4215</a></li>
+                        <li class="nav-item"><a class="nav-link" href="tel:+2347040004215"><i class="fas fa-headphones-alt fa-fw me-3"></i> +234 704 000 4215</a></li>
                         <li class="nav-item"><i class="fas bi bi-clock me-3"></i> <span class="text-primary">Mon - Fri:</span> 09:00 - 18:00.
                             <span class="text-primary">Sat:</span> 10:00 - 18:00. <span class="text-primary">Sun:</span> Closed
                         </li>
