@@ -1,0 +1,40 @@
+Options +FollowSymLinks
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html [NC,L]
+ErrorDocument 404 https://pzielng.com/404
+Rewriterule ^error_page$ 404.html 
+Rewriterule ^home$ printing-and-branding-company-in-lagos-nigeria-pzielng-home.html
+Rewriterule ^about_pzielng$ about-pzielng.html
+Rewriterule ^advert-poster-print$ advert-poster-print.html
+Rewriterule ^branded-mug-printing$ branded-mug-printing.html
+Rewriterule ^brochure-company-profile-printing$ brochure-company-profile-printing.html
+Rewriterule ^contact-pzielng$ contact-pzielng.html
+Rewriterule ^custom-calendar-printing$ custom-calendar-printing.html
+Rewriterule ^face-cap-printing$ face-cap-printing.html
+Rewriterule ^flyer-printing$ flyer-printing.html
+Rewriterule ^letterhead-design-and-printing$ letterhead-design-and-printing.html
+Rewriterule ^Monogram-printing$ Monogram-printing.html
+Rewriterule ^notepad-jotter-printing$ notepad-jotter-printing.html
+Rewriterule ^pen-branding-printing$ pen-branding-printing.html
+Rewriterule ^polo-tshirt-print$ polo-tshirt-print.html
+Rewriterule ^premium-business-card-printing$ premium-business-card-printing.html
+Rewriterule ^roll-up-banner-printing$ roll-up-banner-printing.html
+Rewriterule ^round-neck-tshirt-printing$ round-neck-tshirt-printing.html
+Rewriterule ^shopping-paper-bag-print$ shopping-paper-bag-print.html
+Rewriterule ^standard-business-card-printing$ standard-business-card-printing.html
+Rewriterule ^standard-id-card-printing$ standard-id-card-printing.html
+Rewriterule ^tshirt-printing$ tshirt-printing.html
+Rewriterule ^wedding-invitation-card-printing$ wedding-invitation-card-printing.html
+
+
+##Force SSL
+#Normal way (in case you need to deploy to NON-heroku)
+RewriteCond %{HTTPS} !=on
+#Heroku way
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+#If neither above conditions are met, redirect to https
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
