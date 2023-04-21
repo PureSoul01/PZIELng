@@ -103,8 +103,8 @@
 <body>
     <!-- Pre loader -->
     <div class="preloader">
-        <div class="preloader-item"><img src="assets/logo&favicon/pziel-logo-icon.svg" class="light-mode-item" alt="pziel logo icon, pzielng logo icon">
-            <img src="assets/logo&favicon/pziel-logo-icon-dark.svg" class="dark-mode-item" alt="pziel logo icon, pzielng logo icon">
+        <div class="preloader-item animate__fadeOut"><img src="assets/logo&favicon/pziel-logo-icon.svg" class="light-mode-item" alt="pziel logo icon, pzielng logo icon" title="pzielng logo, pziel logo">
+            <img src="assets/logo&favicon/pziel-logo-icon-dark.svg" class="dark-mode-item" alt="pziel logo icon, pzielng logo icon" title="pzielng logo, pziel logo">
         </div>
     </div>
     <header class="navbar-light navbar-sticky header-static">
@@ -925,7 +925,7 @@ Footer START -->
                     <!-- Item -->
                     <div class="mb-4 position-relative">
                         <div>
-                            <a href="  printing-and-branding-company-in-lagos-nigeria-pzielng-home.html" class=" mb-2 align-items-center"><img src="assets/logo&favicon/PZIEL LOGO.png" alt="website design, graphics design and printing in lagos nigeria africa" width="130px" height="auto"></a>
+                            <a href="printing-and-branding-company-in-lagos-nigeria-pzielng-home" class=" mb-2 align-items-center"><img src="assets/logo&favicon/PZIEL LOGO.png" alt="website design, graphics design and printing in lagos nigeria africa" width="130px" height="auto"></a>
                         </div>
                     </div>
                 </div>
@@ -936,7 +936,7 @@ Footer START -->
                     <div class="row">
                         <div class="col">
                             <ul class="nav flex-column text-primary-hover">
-                                <li class="nav-item"><a class="nav-link pt-0" href="  printing-and-branding-company-in-lagos-nigeria-pzielng-home.html">Home</a></li>
+                                <li class="nav-item"><a class="nav-link pt-0" href="printing-and-branding-company-in-lagos-nigeria-pzielng-home">Home</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#pagesmenu">All Products</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#port">Porfolio</a></li>
                                 <li class="nav-item"><a class="nav-link" href="about-pzielng">About Us</a></li>
