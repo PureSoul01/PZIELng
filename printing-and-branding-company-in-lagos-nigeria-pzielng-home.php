@@ -112,7 +112,7 @@
         <nav class="navbar navbar-expand-xl">
             <div class="container">
                 <!-- Logo START -->
-                <a class="navbar-brand" href="printing-and-branding-company-in-lagos-nigeria-pzielng-home.html">
+                <a class="navbar-brand" href="printing-and-branding-company-in-lagos-nigeria-pzielng-home">
                     <img class="navbar-brand-item light-mode-item" src="assets/logo&favicon/pzielLogoDark.png" alt="Pziel logo">
                     <img class="navbar-brand-item dark-mode-item" src="assets/logo&favicon/PZIEL LOGO.png" alt="Pziel logo">
                 </a>
@@ -130,7 +130,7 @@
 
                         <!-- Nav item 1 Demos -->
                         <li class="nav-item dropdown">
-                            <a class="nav-link active" href="printing-and-branding-company-in-lagos-nigeria-pzielng-home.html" id="homeMenu" aria-expanded="false">HOME</a>
+                            <a class="nav-link active" href="printing-and-branding-company-in-lagos-nigeria-pzielng-home" id="homeMenu" aria-expanded="false">HOME</a>
                         </li>
 
                         <li class="nav-item dropdown">
@@ -141,22 +141,22 @@
                                     <a class="dropdown-item dropdown-toggle" href="#">Corporate Branding</a>
                                     <ul class="dropdown-menu dropdown-menu-start" data-bs-popper="none">
                                         <li class="dropdown-submenu dropend">
-                                            <a class="dropdown-item" href="flyer-printing.html">Flyer & Handbill</a>
+                                            <a class="dropdown-item" href="flyer-printing">Flyer & Handbill</a>
                                         </li>
                                         <li class="dropdown-submenu dropend">
-                                            <a class="dropdown-item dropdown-toggle" href="tshirt-printing.html">T-shirts & Polos</a>
+                                            <a class="dropdown-item dropdown-toggle" href="tshirt-printing">T-shirts & Polos</a>
                                             <ul class="dropdown-menu" data-bs-popper="none">
-                                                <li> <a class="dropdown-item" href="tshirt-printing.html">Custom T-shirt</a> </li>
-                                                <li> <a class="dropdown-item" href="round-neck-tshirt-printing.html">Roundneck T-shirt</a> </li>
-                                                <li> <a class="dropdown-item" href="polo-tshirt-print.html">Polo T-Shirt</a></li>                                                <li> <a class="dropdown-item" href="Monogram-printing.html">Monogram Printing</a> </li>
+                                                <li> <a class="dropdown-item" href="tshirt-printing">Custom T-shirt</a> </li>
+                                                <li> <a class="dropdown-item" href="round-neck-tshirt-printing">Roundneck T-shirt</a> </li>
+                                                <li> <a class="dropdown-item" href="polo-tshirt-print">Polo T-Shirt</a></li>                                                <li> <a class="dropdown-item" href="Monogram-printing">Monogram Printing</a> </li>
 
                                             </ul>
                                         </li>
                                         <li class="dropdown-submenu dropend">
                                             <a class="dropdown-item dropdown-toggle" href="#">Office Stationeries</a>
                                             <ul class="dropdown-menu" data-bs-popper="none">
-                                                <li> <a class="dropdown-item" href="pen-branding-printing.html">Branded Pen</a> </li>
-                                                <li> <a class="dropdown-item" href="letterhead-design-and-printing.html">LetterHead</a> </li>
+                                                <li> <a class="dropdown-item" href="pen-branding-printing">Branded Pen</a> </li>
+                                                <li> <a class="dropdown-item" href="letterhead-design-and-printing">LetterHead</a> </li>
                                                 <li> <a class="dropdown-item" href="#">Receipt & Invoice</a> </li>
                                                 <li> <a class="dropdown-item" href="#">Flash Drive</a> </li>
                                                 <li> <a class="dropdown-item" href="#">Envelope</a> </li>
@@ -169,7 +169,7 @@
                                 <li class="dropdown-submenu dropend">
                                     <a class="dropdown-item dropdown-toggle" href="#">Marketing Brochures</a>
                                     <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="brochure-company-profile-printing.html">Brochure/Company Profile</a> </li>
+                                        <li> <a class="dropdown-item" href="brochure-company-profile-printing">Brochure/Company Profile</a> </li>
                                         <li> <a class="dropdown-item" href="#">Bifold Brochure </a> </li>
                                         <li> <a class="dropdown-item" href="#">Trifold Brochure</a> </li>
                                     </ul>
@@ -177,14 +177,14 @@
                                 <li class="dropdown-submenu dropend">
                                     <a class="dropdown-item dropdown-toggle" href="#">Business Cards</a>
                                     <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="standard-business-card-printing.html">Standard Business Card</a> </li>
-                                        <li> <a class="dropdown-item" href="premium-business-card-printing.html">Premium Business Card</a> </li>
+                                        <li> <a class="dropdown-item" href="standard-business-card-printing">Standard Business Card</a> </li>
+                                        <li> <a class="dropdown-item" href="premium-business-card-printing">Premium Business Card</a> </li>
                                     </ul>
                                 </li>
                                 <li class="dropdown-submenu dropend">
                                     <a class="dropdown-item dropdown-toggle" href="#">Flex Banner</a>
                                     <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="roll-up-banner-printing.html">Roll-Up Banner</a> </li>
+                                        <li> <a class="dropdown-item" href="roll-up-banner-printing">Roll-Up Banner</a> </li>
                                         <li> <a class="dropdown-item" href="#">Advertisement Banner</a> </li>
                                         <li>
                                             <a class="dropdown-item" href="#">Sticker Print</a>
@@ -199,7 +199,7 @@
                                 <li class="dropdown-submenu dropend">
                                     <a class="dropdown-item dropdown-toggle " href="# ">Custom ID Card</a>
                                     <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="standard-id-card-printing.html">Standard ID Card</a> </li>
+                                        <li> <a class="dropdown-item" href="standard-id-card-printing">Standard ID Card</a> </li>
                                         <li> <a class="dropdown-item" href="#">Lanyard/ID Card Rope</a> </li>
                                     </ul>
                                 </li>
@@ -215,7 +215,7 @@
                                     <a class="dropdown-item dropdown-toggle" href="#">Posters & SIgnage</a>
                                     <ul class="dropdown-menu" data-bs-popper="none">
 
-                                        <li> <a class="dropdown-item" href="advert-poster-print.html">Posters</a> </li>
+                                        <li> <a class="dropdown-item" href="advert-poster-print">Posters</a> </li>
                                         <li> <a class="dropdown-item" href="#">Company/Office Signage</a> </li>
                                         <li>
                                             <a class="dropdown-item" href="#">3D Logo  Signage</a>
@@ -247,7 +247,7 @@
                                     </ul>
                                 </li>
                                 <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item dropdown-toggle" href="Notepad-Jotter-print.html">Notepad & Jotter</a>
+                                    <a class="dropdown-item dropdown-toggle" href="Notepad-Jotter-print">Notepad & Jotter</a>
 
                                     <ul class="dropdown-menu" data-bs-popper="none">
 
@@ -260,7 +260,7 @@
                                     <a class="dropdown-item dropdown-toggle" href="#">Wedding Cards</a>
                                     <ul class="dropdown-menu" data-bs-popper="none">
                                         <li> <a class="dropdown-item" href="#">Invitation Box Pakage</a> </li>
-                                        <li> <a class="dropdown-item " href="wedding-invitation-card-printing.html">Wedding Invitation Card</a> </li>
+                                        <li> <a class="dropdown-item " href="wedding-invitation-card-printing">Wedding Invitation Card</a> </li>
                                         <li> <a class="dropdown-item" href="#">Acrylic Foil Card</a> </li>
                                         <li> <a class="dropdown-item" href="#">Premium Card</a> </li>
                                     </ul>
@@ -269,18 +269,18 @@
                                     <a class="dropdown-item dropdown-toggle" href="#">Gift Bags</a>
                                     <ul class="dropdown-menu" data-bs-popper="none">
                                         <li><a class="dropdown-item" href="#">All Bags</a></li>
-                                        <li><a class="dropdown-item" href="shopping-paper-bag-print.html">Shopping Paper Bag</a></li>
+                                        <li><a class="dropdown-item" href="shopping-paper-bag-print">Shopping Paper Bag</a></li>
                                         <li> <a class="dropdown-item" href="#">Shopping Nylon Bag</a> </li>
                                         <li> <a class="dropdown-item" href="#">Courier Nylon Bag</a> </li>
                                         <li> <a class="dropdown-item" href="#">Tote Bag</a> </li>
                                     </ul>
                                 </li>
                                 <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item" href="face-cap-printing.html">Face Cap</a></li>
+                                    <a class="dropdown-item" href="face-cap-printing">Face Cap</a></li>
                                 <li class="dropdown-submenu dropend">
                                     <a class="dropdown-item dropdown-toggle" href="#">Calendars</a>
                                     <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="custom-calendar-printing.html">Calendars</a> </li>
+                                        <li> <a class="dropdown-item" href="custom-calendar-printing">Calendars</a> </li>
                                         <li> <a class="dropdown-item" href="#">Table Calendar</a> </li>
                                         <li> <a class="dropdown-item" href="#">A3 Calendar</a> </li>
                                         <li> <a class="dropdown-item" href="#">A2 Calendar</a> </li>
@@ -290,7 +290,7 @@
                                 <li class="dropdown-submenu dropend">
                                     <a class="dropdown-item dropdown-toggle" href="#">Custom Mugs</a>
                                     <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="branded-mug-printing.html">Coated Mugs</a> </li>
+                                        <li> <a class="dropdown-item" href="branded-mug-printing">Coated Mugs</a> </li>
                                         <li> <a class="dropdown-item" href="#">Regular Mug</a> </li>
                                         <li> <a class="dropdown-item" href="#">Magic Mug</a> </li>
                                         <li> <a class="dropdown-item" href="#">Travel Mug</a> </li>
@@ -305,16 +305,16 @@
                                 </li>
                             </ul>
                         </li>
-                        <li> <a class="dropdown-item" href="404.html">Graphic Design</a></li>
+                        <li> <a class="dropdown-item" href="404">Graphic Design</a></li>
                         <li> <a class="dropdown-item" href="signin.html">Web Design</a></li>
                         <li> <a class="dropdown-item" href="signup.html">Logo Design</a></li>
                         </ul>
                         </li>
 
                         <!-- Nav item 4 link-->
-                        <li class="nav-item"> <a class="nav-link" href="contact-pzielng.html">PORTFOLIO</a></li>
-                        <li class="nav-item"> <a class="nav-link" href="about-pzielng.html">ABOUT US</a></li>
-                        <li class="nav-item"> <a class="nav-link" href="contact-pzielng.html">CONTACT</a></li>
+                        <li class="nav-item"> <a class="nav-link" href="contact-pzielng">PORTFOLIO</a></li>
+                        <li class="nav-item"> <a class="nav-link" href="about-pzielng">ABOUT US</a></li>
+                        <li class="nav-item"> <a class="nav-link" href="contact-pzielng">CONTACT</a></li>
 
 
                     </ul>
@@ -551,7 +551,7 @@ Category START -->
                                     <div class="card bg-transparent">
                                         <img class="card-img" src="assets/products/company-business-standard-id-card-design-&-printing-in-lagos-nigeria.jpg" alt="Best quality ID card Design & Printing in lagos, nigeria." title="ID card Design & Printing">
                                         <div class="card-body ps-0">
-                                            <h5 class="mb-0"><a href="standard-id-card-printing.html" class="stretched-link">Brand Identity Card</a></h5>
+                                            <h5 class="mb-0"><a href="standard-id-card-printing" class="stretched-link">Brand Identity Card</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -569,7 +569,7 @@ Category START -->
                                     <div class="card bg-transparent">
                                         <img class="card-img" src="assets/products/a2-a3-a1-large-gift-shopping-paper-bag-design-and-printing.jpg" alt="best qulaity paper bag printing in lagos Abuja Nigeria." title="lanscape paper bag design & printing">
                                         <div class="card-body ps-0">
-                                            <h5 class="mb-0"><a href="shopping-paper-bag-print.html" class="stretched-link">Shopping Bag</a></h5>
+                                            <h5 class="mb-0"><a href="shopping-paper-bag-print" class="stretched-link">Shopping Bag</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -578,7 +578,7 @@ Category START -->
                                     <div class="card bg-transparent">
                                         <img class="card-img" src="assets/products/id-card-holder-id-card-rope-id-card-lanyard-print.jpg" alt="card image">
                                         <div class="card-body ps-0">
-                                            <h5 class="mb-0"><a href="standard-id-card-printing.html" class="stretched-link">Lanyard/ID Card Holder </a></h5>
+                                            <h5 class="mb-0"><a href="standard-id-card-printing" class="stretched-link">Lanyard/ID Card Holder </a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -586,7 +586,7 @@ Category START -->
                                     <div class="card bg-transparent">
                                         <img class="card-img" src="assets/products/business-company-brand-complimentary-card.jpg" alt="best qulaity business card printing in lagos Abuja Nigeria africa" title="business card printing in lagos nigeria africa">
                                         <div class="card-body ps-0">
-                                            <h5 class="mb-0"><a href="standard-business-card-printing.html" class="stretched-link">Business Card</a></h5>
+                                            <h5 class="mb-0"><a href="standard-business-card-printing" class="stretched-link">Business Card</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -717,7 +717,7 @@ Best selling product START -->
                     <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
-                            <a href="tshirt-printing.html"><img class="card-img" src="assets/products/tshirt-cloth-top-design-and-print.jpg" alt="tshirt design & printing in lagos nigeria africa" title="tshirt design & printing in lagos nigeria"></a>
+                            <a href="tshirt-printing"><img class="card-img" src="assets/products/tshirt-cloth-top-design-and-print.jpg" alt="tshirt design & printing in lagos nigeria africa" title="tshirt design & printing in lagos nigeria"></a>
 
                             <!-- Card body -->
                             <div class="card-body text-center p-3 px-0">
@@ -732,7 +732,7 @@ Best selling product START -->
                                     </ul>
                                 </div>
                                 <!-- Title -->
-                                <h5 class="card-title"><a href="tshirt-printing.html">Tshirt Printing</a></h5>
+                                <h5 class="card-title"><a href="tshirt-printing">Tshirt Printing</a></h5>
                             </div>
 
                             <!-- Card footer -->
@@ -812,7 +812,7 @@ Best selling product START -->
                     <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
-                            <a href="shopping-paper-bag-print.html"><img class="card-img" src="assets/products/a2-a3-a1-large-gift-shopping-paper-bag-design-and-printing.jpg" alt="Best shopping Paper bag Design & printing in Lagos nigeria" title="shopping paper bag design & printing"></a>
+                            <a href="shopping-paper-bag-print"><img class="card-img" src="assets/products/a2-a3-a1-large-gift-shopping-paper-bag-design-and-printing.jpg" alt="Best shopping Paper bag Design & printing in Lagos nigeria" title="shopping paper bag design & printing"></a>
 
                             <!-- Card body -->
                             <div class="card-body text-center p-3 px-0">
@@ -827,7 +827,7 @@ Best selling product START -->
                                     </ul>
                                 </div>
                                 <!-- Title -->
-                                <h5 class="card-title"><a href="shopping-paper-bag-print.html">Shopping Paper Bag</a></h5>
+                                <h5 class="card-title"><a href="shopping-paper-bag-print">Shopping Paper Bag</a></h5>
                             </div>
 
                             <!-- Card footer -->
@@ -906,7 +906,7 @@ Best selling product START -->
         </section>
         <!-- =======================
 Best selling product END -->
-        <div class="container my-2 my-md-4 mx-auto" style="width:200px"> <a class="btn btn-primary-soft " href="about-pzielng.html"> LEARN MORE ABOUT US</a></div>
+        <div class="container my-2 my-md-4 mx-auto" style="width:200px"> <a class="btn btn-primary-soft " href="about-pzielng"> LEARN MORE ABOUT US</a></div>
 
 
 
@@ -939,8 +939,8 @@ Footer START -->
                                 <li class="nav-item"><a class="nav-link pt-0" href="  printing-and-branding-company-in-lagos-nigeria-pzielng-home.html">Home</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#pagesmenu">All Products</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#port">Porfolio</a></li>
-                                <li class="nav-item"><a class="nav-link" href="about-pzielng.html">About Us</a></li>
-                                <li class="nav-item"><a class="nav-link" href="contact-pzielng.html">Contact Us</a></li>
+                                <li class="nav-item"><a class="nav-link" href="about-pzielng">About Us</a></li>
+                                <li class="nav-item"><a class="nav-link" href="contact-pzielng">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -950,7 +950,7 @@ Footer START -->
                 <div class="col-sm-6 col-lg-4 mb-4">
                     <h6 class="mb-2 text-white">Contact us</h6>
                     <ul class="nav flex-column text-primary-hover">
-                        <li class="nav-item"><a class="nav-link" href="contact-pzielng.html"><i class="fs-5 bi bi-geo-alt me-3"></i>34, Oguntolu Street Shomolu, Lagos, Nigeria</a></li>
+                        <li class="nav-item"><a class="nav-link" href="contact-pzielng"><i class="fs-5 bi bi-geo-alt me-3"></i>34, Oguntolu Street Shomolu, Lagos, Nigeria</a></li>
                         <li class="nav-item"><a class="nav-link" href="mailto:pzielng@gmail.com"><i class="far fa-envelope fa-fw me-3"></i> pziel.ng@gmail.com</a></li>
                         <li class="nav-item"><a class="nav-link" href="tel:+2347040004215"><i class="fas fa-headphones-alt fa-fw me-3"></i> +234 704 000 4215</a></li>
                         <li class="nav-item"><i class="fas bi bi-clock me-3"></i> <span class="text-primary">Mon - Fri:</span> 09:00 - 18:00.
