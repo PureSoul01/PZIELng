@@ -410,8 +410,106 @@ Inner intro START -->
                         <p class="mb-1"><strong>Price:</strong> A3 Posters printing starting from <strong>₦31,350.00</strong> for 100 copies.</p>
                         <p class="mb-1">
                             <strong>Same Day Delivery </strong>within Lagos (if you order before 12:00 noon), 2-3 working days for other states in Nigeria.</p>
-                        <a href="contact-pzielng#contactMe" class="btn py-2 my-3 fw-bold btn-primary mb-0 ">Order now</a>
-                        <a href="#" class="btn py-2 my-3 fw-bold btn-secondary mb-0 ms-2">Price List</a>
+                        <a href="#" class="btn py-2 my-3 fw-bold btn-primary mb-0 ms-2" data-bs-toggle="modal" data-bs-target="#orderNow">Order Now</a>
+                        <!--Order now modal start-->
+                        <div class="modal fade modal-lg modal-sm-sm" id="orderNow" tabindex="-1" aria-labelledby="orderNow" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h1 class="modal-title fs-5" id="orderNow">Price List</h1>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                                    <div class="modal-body">
+                                        <form class="contact-form gform" id="contact-form" name="contactform" method="POST" action="https://script.google.com/macros/s/AKfycbxrja3hHHGxb1cYhhc4eASErGowpILBQ_KO6LBFGYmzPftHBun5YuWEeGVzQvuNWl_u/exec">
+                                            <!-- Main form -->
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <!-- name -->
+                                                    <div class="mb-3">
+                                                        <input required id="con-name" name="name" type="text" class="form-control" placeholder="Name">
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <!-- email -->
+                                                    <div class="mb-3">
+                                                        <input required id="con-email" name="email" type="email" class="form-control" placeholder="E-mail">
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-12">
+                                                    <!-- Subject -->
+                                                    <div class="mb-3">
+                                                        <input required id="con-subject" name="subject" type="text" class="form-control" placeholder="Subject">
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-12">
+                                                    <!-- Message -->
+                                                    <div class="mb-3">
+                                                        <textarea required id="con-message" name="message" cols="40" rows="6" class="form-control" placeholder="Message"></textarea>
+                                                    </div>
+                                                </div>
+                                                <!-- submit button -->
+                                                <div class="col-md-12 text-start">
+                                                    <button class="btn btn-primary w-100">Send Message</button>
+                                                </div>
+                                            </div>
+                                            <div style="display:none" class="thankyou_message mt-3">
+                                                <h6 class="fw-lighter">Thanks for placing an order. We will revert shortly!.
+                                                </h6>
+                                            </div>
+                                        </form>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button></div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Order modal end-->
+                        <a href="#" class="btn py-2 my-3 fw-bold btn-primary-soft mb-0 ms-2" data-bs-toggle="modal" data-bs-target="#priceList">Price List</a>
+                        <!-- price modal start -->
+                        <div class="modal fade modal-lg modal-sm-sm" id="priceList" tabindex="-1" aria-labelledby="pricelist" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h1 class="modal-title fs-5" id="priceList">Price List</h1>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                                    <div class="modal-body">
+                                        <!-- table -->
+                                        <table class="table table-bordered my-4 table-striped">
+                                            <thead>
+                                                <tr>
+                                                    <th scope="col">QTY</th>
+                                                    <th scope="col">11oz Mug (Small Size) Price Per Unit</th>
+                                                    <th scope="col">15oz Mug (Big Size) Price Per Unit</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <th scope="col">1-50</th>
+                                                    <td>₦2,350.00</td>
+                                                    <td>₦2,750.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="col">51-100</th>
+                                                    <td>₦2,250.00</td>
+                                                    <td>₦2,650.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="col">100-500</th>
+                                                    <td>₦2,100.00</td>
+                                                    <td>₦2,550.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="col">500-1000</th>
+                                                    <td>₦2,000.00</td>
+                                                    <td>₦2,450.00</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button></div>
+                                </div>
+                            </div>
+                        </div>
                         <hr class="my-5" />
                         <div class="my-4">
                             <img class=" rounded" src="assets/products/campaign-poster-design-and-printing-in-lagos-nigeria.jpg" alt="campaign A2 Portrait Poster Design & Printing in lagos" title="Campaign poster design">
@@ -426,8 +524,106 @@ Inner intro START -->
                         <p class="mb-1"><strong>Price:</strong>A2 Posters printing starting from <strong>₦39,400.00</strong> for 100 copies</p>
                         <p class="mb-1">
                             <strong>Same Day Delivery </strong>within Lagos (if you order before 12:00 noon), 2-3 working days for other states in Nigeria.</p>
-                        <a href="contact-pzielng#contactMe" class="btn py-2 my-3 fw-bold btn-primary mb-0 ">Order now</a>
-                        <a href="#" class="btn py-2 my-3 fw-bold btn-secondary mb-0 ms-2">Price List</a>
+                        <a href="#" class="btn py-2 my-3 fw-bold btn-primary mb-0 ms-2" data-bs-toggle="modal" data-bs-target="#orderNow">Order Now</a>
+                        <!--Order now modal start-->
+                        <div class="modal fade modal-lg modal-sm-sm" id="orderNow" tabindex="-1" aria-labelledby="orderNow" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h1 class="modal-title fs-5" id="orderNow">Price List</h1>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                                    <div class="modal-body">
+                                        <form class="contact-form gform" id="contact-form" name="contactform" method="POST" action="https://script.google.com/macros/s/AKfycbxrja3hHHGxb1cYhhc4eASErGowpILBQ_KO6LBFGYmzPftHBun5YuWEeGVzQvuNWl_u/exec">
+                                            <!-- Main form -->
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <!-- name -->
+                                                    <div class="mb-3">
+                                                        <input required id="con-name" name="name" type="text" class="form-control" placeholder="Name">
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <!-- email -->
+                                                    <div class="mb-3">
+                                                        <input required id="con-email" name="email" type="email" class="form-control" placeholder="E-mail">
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-12">
+                                                    <!-- Subject -->
+                                                    <div class="mb-3">
+                                                        <input required id="con-subject" name="subject" type="text" class="form-control" placeholder="Subject">
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-12">
+                                                    <!-- Message -->
+                                                    <div class="mb-3">
+                                                        <textarea required id="con-message" name="message" cols="40" rows="6" class="form-control" placeholder="Message"></textarea>
+                                                    </div>
+                                                </div>
+                                                <!-- submit button -->
+                                                <div class="col-md-12 text-start">
+                                                    <button class="btn btn-primary w-100">Send Message</button>
+                                                </div>
+                                            </div>
+                                            <div style="display:none" class="thankyou_message mt-3">
+                                                <h6 class="fw-lighter">Thanks for placing an order. We will revert shortly!.
+                                                </h6>
+                                            </div>
+                                        </form>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button></div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Order modal end-->
+                        <a href="#" class="btn py-2 my-3 fw-bold btn-primary-soft mb-0 ms-2" data-bs-toggle="modal" data-bs-target="#priceList">Price List</a>
+                        <!-- price modal start -->
+                        <div class="modal fade modal-lg modal-sm-sm" id="priceList" tabindex="-1" aria-labelledby="pricelist" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h1 class="modal-title fs-5" id="priceList">Price List</h1>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                                    <div class="modal-body">
+                                        <!-- table -->
+                                        <table class="table table-bordered my-4 table-striped">
+                                            <thead>
+                                                <tr>
+                                                    <th scope="col">QTY</th>
+                                                    <th scope="col">11oz Mug (Small Size) Price Per Unit</th>
+                                                    <th scope="col">15oz Mug (Big Size) Price Per Unit</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <th scope="col">1-50</th>
+                                                    <td>₦2,350.00</td>
+                                                    <td>₦2,750.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="col">51-100</th>
+                                                    <td>₦2,250.00</td>
+                                                    <td>₦2,650.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="col">100-500</th>
+                                                    <td>₦2,100.00</td>
+                                                    <td>₦2,550.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="col">500-1000</th>
+                                                    <td>₦2,000.00</td>
+                                                    <td>₦2,450.00</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button></div>
+                                </div>
+                            </div>
+                        </div>
                         <hr class="my-5" />
                         <div class="my-4">
                             <img class=" rounded" src="assets/products/school-college-poster-design-and-best-quality-printing.jpg" alt="School/college poster design & printing in lagos nigeria" title="school/college poster design & printing">
@@ -442,8 +638,106 @@ Inner intro START -->
                         <p class="mb-1"><strong>Price:</strong> A1 Poster printing starting at <strong>₦89,550.00</strong> for 100 copies</p>
                         <p class="mb-1">
                             <strong>Same Day Delivery </strong>within Lagos (if you order before 12:00 noon), 2-3 working days for other states in Nigeria.</p>
-                        <a href="https://wa.me/message/M2OHWYN37AWQL1" class="btn py-2 my-3 fw-bold btn-primary mb-5 ">Order now</a>
-                        <a href="#" class="btn py-2 my-3 fw-bold btn-secondary mb-5 ms-2">Price List</a>
+                        <a href="#" class="btn py-2 my-3 fw-bold btn-primary mb-0 ms-2" data-bs-toggle="modal" data-bs-target="#orderNow">Order Now</a>
+                        <!--Order now modal start-->
+                        <div class="modal fade modal-lg modal-sm-sm" id="orderNow" tabindex="-1" aria-labelledby="orderNow" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h1 class="modal-title fs-5" id="orderNow">Price List</h1>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                                    <div class="modal-body">
+                                        <form class="contact-form gform" id="contact-form" name="contactform" method="POST" action="https://script.google.com/macros/s/AKfycbxrja3hHHGxb1cYhhc4eASErGowpILBQ_KO6LBFGYmzPftHBun5YuWEeGVzQvuNWl_u/exec">
+                                            <!-- Main form -->
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <!-- name -->
+                                                    <div class="mb-3">
+                                                        <input required id="con-name" name="name" type="text" class="form-control" placeholder="Name">
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <!-- email -->
+                                                    <div class="mb-3">
+                                                        <input required id="con-email" name="email" type="email" class="form-control" placeholder="E-mail">
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-12">
+                                                    <!-- Subject -->
+                                                    <div class="mb-3">
+                                                        <input required id="con-subject" name="subject" type="text" class="form-control" placeholder="Subject">
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-12">
+                                                    <!-- Message -->
+                                                    <div class="mb-3">
+                                                        <textarea required id="con-message" name="message" cols="40" rows="6" class="form-control" placeholder="Message"></textarea>
+                                                    </div>
+                                                </div>
+                                                <!-- submit button -->
+                                                <div class="col-md-12 text-start">
+                                                    <button class="btn btn-primary w-100">Send Message</button>
+                                                </div>
+                                            </div>
+                                            <div style="display:none" class="thankyou_message mt-3">
+                                                <h6 class="fw-lighter">Thanks for placing an order. We will revert shortly!.
+                                                </h6>
+                                            </div>
+                                        </form>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button></div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Order modal end-->
+                        <a href="#" class="btn py-2 my-3 fw-bold btn-primary-soft mb-0 ms-2" data-bs-toggle="modal" data-bs-target="#priceList">Price List</a>
+                        <!-- price modal start -->
+                        <div class="modal fade modal-lg modal-sm-sm" id="priceList" tabindex="-1" aria-labelledby="pricelist" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h1 class="modal-title fs-5" id="priceList">Price List</h1>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                                    <div class="modal-body">
+                                        <!-- table -->
+                                        <table class="table table-bordered my-4 table-striped">
+                                            <thead>
+                                                <tr>
+                                                    <th scope="col">QTY</th>
+                                                    <th scope="col">11oz Mug (Small Size) Price Per Unit</th>
+                                                    <th scope="col">15oz Mug (Big Size) Price Per Unit</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <th scope="col">1-50</th>
+                                                    <td>₦2,350.00</td>
+                                                    <td>₦2,750.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="col">51-100</th>
+                                                    <td>₦2,250.00</td>
+                                                    <td>₦2,650.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="col">100-500</th>
+                                                    <td>₦2,100.00</td>
+                                                    <td>₦2,550.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="col">500-1000</th>
+                                                    <td>₦2,000.00</td>
+                                                    <td>₦2,450.00</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button></div>
+                                </div>
+                            </div>
+                        </div>
 
                     </div>
                 </div>
