@@ -20,6 +20,7 @@
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="">    <meta name="author" content="PZIELng">
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'  />
     <meta name="description" content="Best Company that provides quality printing and unique graphics design in lagos abuja Nigeria.">
 
 
