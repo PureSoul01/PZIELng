@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-W9H7JHQ"></script>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-265902762-1"></script>
     <script>
