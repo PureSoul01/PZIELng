@@ -203,7 +203,7 @@
                                         <li>
                                             <a class="dropdown-item" href="label-sticker-printing">Sticker Print</a>
                                             <li>
-                                                <a class="dropdown-item" href="#">X-Banner</a>
+                                                <a class="dropdown-item" href="x-banner-print">X-Banner</a>
                                             </li>
                                             <li> <a class="dropdown-item" href="backdrop-banner-print">Backdrop Banner</a> </li>
                                         </li>
