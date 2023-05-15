@@ -429,11 +429,11 @@ Main hero START -->
                                     <div class="row g-4 align-items-center px-3-md">
                                         <div class="col-md-6">
                                             <h1 class="display-5">Printing Deals</h1>
-                                                <br>PZIEL gives your brand a unique and creative design finished with top notch printing material making your brand outstanding from others.</p>
+                                                <br>PZIEL gives your brand a unique and creative design finished with top-notch printing material making your brand outstanding from others.</p>
                                             <!-- Rating -->
                                             <div class="d-flex mt-2">
                                                 <div class="icon-md rounded text-bg-primary"><i class="fas fa-star text-white"></i></div>
-                                                <div class="mt-2" mb-1>
+                                                <div class="ms-3 mt-2" mb-1>
                                                     <h5 class="mb-0">4.5 / 5.0</h5>
                                                     <small>More than 4000+ satisfied clients</small>
                                                 </div>
