@@ -15,13 +15,13 @@
 
         gtag('config', 'UA-265902762-1');
     </script>
-    <title>PZIEL | Topnotch Printing & Creative Graphics Design in Lagos Nigeria.</title>
+    <title>PZIEL | Best Printing & Branding Company in Lagos Nigeria.</title>
     <!-- Meta Tags -->
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="">    <meta name="author" content="PZIEL">
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'  />
-    <meta name="description" content="Best Company that provides quality printing and unique graphics design in lagos abuja Nigeria.">
+    <meta name="description" content="Best printing and branding Company that provides quality printing and unique graphics design in lagos, abuja Nigeria.">
 
 
     <!--Start of Tawk.to Script-->
@@ -118,7 +118,7 @@
     <!-- Pre loader -->
     <div class="preloader">
         <div class="preloader-item animate__animated "><img src="assets/logo&favicon/pziel-logo-icon.svg" class="light-mode-item" alt="pziel logo icon, pzielng logo icon" title="pzielng logo, pziel logo">
-            <img src="assets/logo&favicon/pziel-logo-icon-dark.svg" class="dark-mode-item" alt="pziel logo icon, pzielng logo icon" title="pzielng logo, pziel logo">
+            <img src="assets/logo&favicon/pziel-logo-icon-dark.svg" class="dark-mode-item" alt="pziel logo icon" title="pzielng logo, pziel logo">
         </div>
     </div>
     <header class="navbar-light navbar-sticky header-static">
@@ -418,7 +418,7 @@ Main hero START -->
 
                                         <!-- Image -->
                                         <div class="col-md-6 align-content-start float-md-start">
-                                            <img src="assets/products/branding in lagos nigeria africa.png" alt="best printing company in lagos abuja nigeria africa." title="best branding company in lagos nigeria">
+                                            <img src="assets/products/branding in lagos nigeria africa.png" alt="best printing company in lagos abuja nigeria africa." title="printing company in lagos nigeria">
                                         </div>
                                     </div>
                                 </div>
@@ -428,26 +428,26 @@ Main hero START -->
                                 <div>
                                     <div class="row g-4 align-items-center px-3-md">
                                         <div class="col-md-6">
-                                            <h2 class="display-5">Branding Deals</h2>
+                                            <h1 class="display-5">Printing Deals</h1>
                                             <p><b>Your brand is what customers say about you when you are not in the room.</b>
-                                                <br>PZIEL give your brand a unique and creative design finished with top notch material making your brand outstaanding from others.</p>
+                                                <br>PZIEL gives your brand a unique and creative design finished with top notch print material making your brand outstanding from others.</p>
 
                                             <!-- Buttons & Price -->
-                                            <a href="tel:+2349074456846" class="btn btn-primary mb-0">Call us today</a>
+                                            <a href="tel:+2347040004215" class="btn btn-primary mb-0">Call us today</a>
 
                                             <!-- Rating -->
                                             <div class="d-flex mt-4">
                                                 <div class="icon-md rounded text-bg-primary"><i class="fas fa-star text-white"></i></div>
                                                 <div class="ms-3">
                                                     <h5 class="mb-0">4.5 / 5.0</h5>
-                                                    <small>More than 3K+ satisfied clients</small>
+                                                    <small>More than 3000+ satisfied clients</small>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <!-- Image -->
                                         <div class="col-md-6">
-                                            <img src="assets/products/company branding in lagos abuja nigeria africa.png" alt="Best quality printing branding company in lagos nigeria." title="printing in lagos nigeria">
+                                            <img src="assets/products/company branding in lagos abuja nigeria africa.png" alt="Pziel Best quality printing & branding company in lagos nigeria." title="printing company in lagos nigeria">
                                         </div>
                                     </div>
                                 </div>
@@ -471,13 +471,13 @@ Main hero START -->
 
                                             <!-- Buttons & Price -->
                                             <div class="hstack gap-4 align-items-center">
-                                                <a href="https://wa.me/message/M2OHWYN37AWQL1" class="btn btn-primary mb-0">Chat us on Whatsapp</a>
+                                                <a href="branded-box-printing" class="btn btn-primary mb-0">5k+ Satisfied Clients </a>
                                             </div>
                                         </div>
 
                                         <!-- Image -->
                                         <div class="col-md-6">
-                                            <img src="assets/products/box branding in lagos abuja nigeria.png" alt="best quality box branding in lagos abuja nigeria africa" title="foil branded box">
+                                            <img src="assets/products/box branding in lagos abuja nigeria.png" alt="best quality branded box printing in lagos, abuja nigeria africa" title="foil branded box printing">
                                         </div>
                                     </div>
                                 </div>
@@ -632,7 +632,7 @@ Best selling product START -->
                         <div class="card border p-3 h-100">
                             <div class="position-relative">
                                 <!-- Image -->
-                                <a href="premium-business-card-printing.html#goldFoil" class="position-relative z-index-9"><img class="card-img" src="assets/products/luxury-business-card-foiled-premium card.jpg" alt="best quality business card complimentary card Design & printing in Lagos nigeria" title="business card design & printing"></a>
+                                <a href="premium-business-card-printing.html#goldFoil" class="position-relative z-index-9"><img class="card-img" src="assets/products/luxury-business-card-foiled-premium card.jpg" alt="best quality business-card-printing-in-Lagos-nigeria" title="business card design & printing in lagos"></a>
                                 <!-- Overlay -->
                                 <div class="card-img-overlay p-0">
                                 </div>
@@ -667,7 +667,7 @@ Best selling product START -->
                     <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
-                            <a href="shop-detail.html"><img class="card-img" src="assets/products/box branding in lagos abuja nigeria.jpg" alt="box branding with foil effect" title="box branding with foil effect"></a>
+                            <a href="shop-detail.html"><img class="card-img" src="assets/products/box branding in lagos abuja nigeria.jpg" alt="box printing in lagos" title="box branding with foil effect"></a>
 
                             <!-- Card body -->
                             <div class="card-body text-center p-3 px-0">
@@ -700,7 +700,7 @@ Best selling product START -->
                     <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
-                            <a href="wedding-invitation-card-printing.html#premiumWeddingCard"><img class="card-img" src="assets/products/quality-gold-foil-wedding-invitation-invite-card-design-and-printing.jpg" alt="premium wedding invitation card design & printing in lagos nigeria africa" title="Gold foil wedding invitation card"></a>
+                            <a href="wedding-invitation-card-printing.html#premiumWeddingCard"><img class="card-img" src="assets/products/quality-gold-foil-wedding-invitation-invite-card-design-and-printing.jpg" alt="premium wedding-invitation-card-printing-in-lagos-nigeria-africa" title="Gold foil-wedding-invitation-card"></a>
 
                             <!-- Card body -->
                             <div class="card-body text-center p-3 px-0">
@@ -731,7 +731,7 @@ Best selling product START -->
                     <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
-                            <a href="tshirt-printing"><img class="card-img" src="assets/products/tshirt-cloth-top-design-and-print.jpg" alt="tshirt design & printing in lagos nigeria africa" title="tshirt design & printing in lagos nigeria"></a>
+                            <a href="tshirt-printing"><img class="card-img" src="assets/products/tshirt-cloth-top-design-and-print.jpg" alt="tshirt printing & design in lagos nigeria africa" title="tshirt design & print in lagos nigeria"></a>
 
                             <!-- Card body -->
                             <div class="card-body text-center p-3 px-0">
@@ -762,7 +762,7 @@ Best selling product START -->
                     <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
-                            <a href="shop-detail.html"><img class="card-img" src="assets/products/van-car-bus-branding-right-side-view.jpg" alt=""></a>
+                            <a href="shop-detail.html"><img class="card-img" src="assets/products/van-car-bus-branding-ffront-view.jpg" alt="car branding,branded bus, branded car" title="car van branding in lagos, abuja, nigeria."></a>
 
                             <!-- Card body -->
                             <div class="card-body text-center p-3 px-0">
@@ -885,16 +885,6 @@ Best selling product START -->
                     <!-- Product item END -->
                     <!-- Product rating START -->
                     <div id="item-5">
-                        <div class="border p-3 p-md-5 rounded mb-3">
-                            <h4>Service rating</h4>
-                            <div class="d-flex mt-4">
-                                <div class="me-3">
-                                    <div class="icon-xl rounded-circle bg-opacity-10 text-primary">8.5</div>
-                                </div>
-                                <p>"I had an excellent experience using <b>Pzielng.</b> Their team was incredibly professional and helpful, guiding me through the entire printing process step by step. The quality of their printing is exceptional, with vibrant
-                                    colors and crisp details. I was also impressed by the turnaround time - my prints were ready much faster than expected! Above all, the customer service I received throughout was truly outstanding, making this company
-                                    a pleasure to work with. I highly recommend <b>Pzielng.</b> for all your printing needs!"
-                            </div>
                             <!-- Progress bar item -->
                             <h6 class="mt-4">Price</h6>
                             <div class="progress progress-percent-bg progress-md">
