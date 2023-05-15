@@ -433,7 +433,7 @@ Main hero START -->
                                             <!-- Rating -->
                                             <div class="d-flex mt-2">
                                                 <div class="icon-md rounded text-bg-primary"><i class="fas fa-star text-white"></i></div>
-                                                <div class="ms-3 mt-2" mb-1>
+                                                <div class="ms-3">
                                                     <h5 class="mb-0">4.5 / 5.0</h5>
                                                     <small>More than 4000+ satisfied clients</small>
                                                 </div>
