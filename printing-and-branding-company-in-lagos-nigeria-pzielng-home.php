@@ -429,12 +429,7 @@ Main hero START -->
                                     <div class="row g-4 align-items-center px-3-md">
                                         <div class="col-md-6">
                                             <h1 class="display-5">Printing Deals</h1>
-                                            <p><b>Your brand is what customers say about you when you are not in the room.</b>
                                                 <br>PZIEL gives your brand a unique and creative design finished with top notch print material making your brand outstanding from others.</p>
-
-                                            <!-- Buttons & Price -->
-                                            <a href="tel:+2347040004215" class="btn btn-primary mb-0">Call us today</a>
-
                                             <!-- Rating -->
                                             <div class="d-flex mt-4">
                                                 <div class="icon-md rounded text-bg-primary"><i class="fas fa-star text-white"></i></div>
