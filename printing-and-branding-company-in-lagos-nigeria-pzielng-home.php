@@ -19,7 +19,7 @@
     <!-- Meta Tags -->
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="keywords" content="">    <meta name="author" content="PZIEL">
+    <meta name="keywords" content=" Logo">    <meta name="author" content="PZIEL">
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'  />
     <meta name="description" content="Best printing and branding Company that provides quality printing and unique graphics design in lagos, abuja Nigeria.">
 
