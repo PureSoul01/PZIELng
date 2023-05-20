@@ -7,7 +7,7 @@ RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]
 ErrorDocument 404 https://pzielng.com/404
 Rewriterule ^error_page$ 404.html 
-Rewriterule ^home$ printing-and-branding-company-in-lagos-nigeria-pzielng-home.html
+Rewriterule ^home$ home.html
 Rewriterule ^about_pzielng$ about-pzielng.html
 Rewriterule ^advert-poster-print$ advert-poster-print.html
 Rewriterule ^branded-mug-printing$ branded-mug-printing.html
