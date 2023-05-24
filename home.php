@@ -18,10 +18,11 @@
     <title>PZIEL | Best Printing & Branding Company in Lagos Nigeria.</title>
     <!-- Meta Tags -->
     <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="keywords" content=" Logo">    <meta name="author" content="PZIEL">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords" content=" Logo">
+    <meta name="author" content="PZIEL">
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'  />
-    <meta name="description" content="Best printing and branding Company that provides quality printing and unique graphics design in lagos, abuja Nigeria.">
+    <meta name="description" content="Best printing Company that provides quality printing and unique graphics design in lagos, abuja Nigeria.">
 
 
     <!--Start of Tawk.to Script-->
@@ -162,7 +163,8 @@
                                             <ul class="dropdown-menu" data-bs-popper="none">
                                                 <li> <a class="dropdown-item" href="tshirt-printing">Custom T-shirt</a> </li>
                                                 <li> <a class="dropdown-item" href="round-neck-tshirt-printing">Roundneck T-shirt</a> </li>
-                                                <li> <a class="dropdown-item" href="polo-tshirt-print">Polo T-Shirt</a></li>                                                <li> <a class="dropdown-item" href="Monogram-printing">Monogram Printing</a> </li>
+                                                <li> <a class="dropdown-item" href="polo-tshirt-print">Polo T-Shirt</a></li>
+                                                <li> <a class="dropdown-item" href="Monogram-printing">Monogram Printing</a> </li>
 
                                             </ul>
                                         </li>
@@ -197,111 +199,115 @@
                                         <li>
                                             <a class="dropdown-item" href="label-sticker-printing">Sticker Print</a>
                                             <li>
-                                                <a class="dropdown-item" href="x-banner-print">X-Banner</a>
+                                                <li>
+                                                    <a class="dropdown-item" href="delivery-box-branding">Box Branding</a>
+                                                    <li>
+                                                        <a class="dropdown-item" href="x-banner-print">X-Banner</a>
+                                                    </li>
+                                                    <li> <a class="dropdown-item" href="backdrop-banner-print">Backdrop Banner</a> </li>
+                                                </li>
+
+                                    </ul>
+                                    </li>
+                                    <li class="dropdown-submenu dropend">
+                                        <a class="dropdown-item dropdown-toggle " href="# ">Custom ID Card</a>
+                                        <ul class="dropdown-menu" data-bs-popper="none">
+                                            <li> <a class="dropdown-item" href="standard-id-card-printing">Standard ID Card</a> </li>
+                                            <li> <a class="dropdown-item" href="lanyard-idcard-rope-print">Lanyard/ID Card Rope</a> </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown-submenu dropend">
+                                        <a class="dropdown-item dropdown-toggle" href="#">Programme Of Events</a>
+                                        <ul class="dropdown-menu" data-bs-popper="none">
+                                            <li> <a class="dropdown-item" href="funeral-program-print">Funeral Programme</a> </li>
+                                            <li> <a class="dropdown-item" href="menu-card-printing">Menu Card</a> </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown-submenu dropend">
+                                        <a class="dropdown-item dropdown-toggle" href="#">Posters & SIgnage</a>
+                                        <ul class="dropdown-menu" data-bs-popper="none">
+
+                                            <li> <a class="dropdown-item" href="advert-poster-print">Posters</a> </li>
+                                        </ul>
+                                    </li>
+
+                                    </ul>
+                                    </li>
+                                    <!-- Dropdown submenu -->
+                                    <li class="dropdown-submenu dropend">
+                                        <a class="dropdown-item dropdown-toggle" href="#">Gift Items & Souvenirs</a>
+                                        <ul class="dropdown-menu dropdown-menu-start" data-bs-popper="none">
+                                            <li class="dropdown-submenu dropend">
+                                                <a class="dropdown-item dropdown-toggle" href="#">Customized Gift</a>
+                                                <ul class="dropdown-menu" data-bs-popper="none">
+                                                    <li> <a class="dropdown-item" href="#">Branded Gifts</a> </li>
+                                                    <li> <a class="dropdown-item" href="throw-pillow-printing">Throw Pillow</a> </li>
+                                                    <li> <a class="dropdown-item" href="keyholder-printing">Key Holder</a> </li>
+                                                    <li> <a class="dropdown-item" href="office-box-package">Office Package</a> </li>
+                                                    <li> <a class="dropdown-item" href="branded-box-printing">Gift Box</a> </li>
+                                                    <li> <a class="dropdown-item" href="water-bottle-printing">Branded Water Bottle</a> </li>
+                                                    <li> <a class="dropdown-item" href="steel-flask-printing">Branded Steel Flask</a> </li>
+
+
+                                                </ul>
                                             </li>
-                                            <li> <a class="dropdown-item" href="backdrop-banner-print">Backdrop Banner</a> </li>
-                                        </li>
+                                            <li class="dropdown-submenu dropend">
+                                                <a class="dropdown-item dropdown-toggle" href="Notepad-Jotter-print">Notepad & Jotter</a>
 
-                                    </ul>
-                                </li>
-                                <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item dropdown-toggle " href="# ">Custom ID Card</a>
-                                    <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="standard-id-card-printing">Standard ID Card</a> </li>
-                                        <li> <a class="dropdown-item" href="lanyard-idcard-rope-print">Lanyard/ID Card Rope</a> </li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Programme Of Events</a>
-                                    <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="funeral-program-print">Funeral Programme</a> </li>
-                                        <li> <a class="dropdown-item" href="menu-card-printing">Menu Card</a> </li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Posters & SIgnage</a>
-                                    <ul class="dropdown-menu" data-bs-popper="none">
+                                                <ul class="dropdown-menu" data-bs-popper="none">
 
-                                        <li> <a class="dropdown-item" href="advert-poster-print">Posters</a> </li></ul>
-                                </li>
+                                                    <li> <a class="dropdown-item" href="notepad-jotter-printing">Notepad/Jotter</a> </li>
+                                                    <li> <a class="dropdown-item" href="soft-cover-jotter-print">Soft Cover Jotter</a> </li>
+                                                    <li> <a class="dropdown-item" href="hard-cover-jotter-print">Hard Cover Jotter</a> </li>
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown-submenu dropend">
+                                                <a class="dropdown-item dropdown-toggle" href="#">Wedding Cards</a>
+                                                <ul class="dropdown-menu" data-bs-popper="none">
+                                                    <li> <a class="dropdown-item" href="Premium-invitation-box-print">Invitation Box</a> </li>
+                                                    <li> <a class="dropdown-item " href="wedding-invitation-card-printing">Wedding Invitation Card</a> </li>
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown-submenu dropend">
+                                                <a class="dropdown-item dropdown-toggle" href="#">Gift Bags</a>
+                                                <ul class="dropdown-menu" data-bs-popper="none">
+                                                    <li><a class="dropdown-item" href="branded-bag-prints">All Bags</a></li>
+                                                    <li><a class="dropdown-item" href="shopping-paper-bag-print">Shopping Paper Bag</a></li>
+                                                    <li> <a class="dropdown-item " href="nylon-shopping-bag-print">Shopping Nylon Bag</a> </li>
+                                                    <li> <a class="dropdown-item " href="tote-bag-printing">Tote Bag</a> </li>
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown-submenu dropend">
+                                                <a class="dropdown-item" href="face-cap-printing">Face Cap</a></li>
+                                            <li class="dropdown-submenu dropend">
+                                                <a class="dropdown-item dropdown-toggle" href="#">Calendars</a>
+                                                <ul class="dropdown-menu" data-bs-popper="none">
+                                                    <li> <a class="dropdown-item" href="custom-calendar-printing">Calendars</a> </li>
+                                                    <li> <a class="dropdown-item" href="desk-table-calendar-print">Desk/Table Calendar</a> </li>
+                                                    <li> <a class="dropdown-item" href="a3-wall-calendar-print">A3 Calendar</a> </li>
+                                                    <li> <a class="dropdown-item" href="a2-wall-calendar-print">A2 Calendar</a> </li>
 
-                                </ul>
-                        </li>
-                        <!-- Dropdown submenu -->
-                        <li class="dropdown-submenu dropend">
-                            <a class="dropdown-item dropdown-toggle" href="#">Gift Items & Souvenirs</a>
-                            <ul class="dropdown-menu dropdown-menu-start" data-bs-popper="none">
-                                <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Customized Gift</a>
-                                    <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="#">Branded Gifts</a> </li>
-                                        <li> <a class="dropdown-item" href="throw-pillow-printing">Throw Pillow</a> </li>
-                                        <li> <a class="dropdown-item" href="keyholder-printing">Key Holder</a> </li>
-                                        <li> <a class="dropdown-item" href="office-box-package">Office Package</a> </li>
-                                        <li> <a class="dropdown-item" href="branded-box-printing">Gift Box</a> </li>
-                                        <li> <a class="dropdown-item" href="water-bottle-printing">Branded Water Bottle</a> </li>
-                                        <li> <a class="dropdown-item" href="steel-flask-printing">Branded Steel Flask</a> </li>
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown-submenu dropend">
+                                                <a class="dropdown-item dropdown-toggle" href="#">Custom Mugs</a>
+                                                <ul class="dropdown-menu" data-bs-popper="none">
+                                                    <li> <a class="dropdown-item " href="branded-mug-printing ">Coated Mugs</a> </li>
+                                                    <li> <a class="dropdown-item" href="magic-mug-print">Magic Mug</a> </li>
+                                                    <li> <a class="dropdown-item" href="travel-mug-printing">Travel Mug</a> </li>
+                                                </ul>
+                                            </li>
 
 
-                                    </ul>
-                                </li>
-                                <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item dropdown-toggle" href="Notepad-Jotter-print">Notepad & Jotter</a>
+                                        </ul>
+                                    </li>
 
-                                    <ul class="dropdown-menu" data-bs-popper="none">
-
-                                        <li> <a class="dropdown-item" href="notepad-jotter-printing">Notepad/Jotter</a> </li>
-                                        <li> <a class="dropdown-item" href="soft-cover-jotter-print">Soft Cover Jotter</a> </li>
-                                        <li> <a class="dropdown-item" href="hard-cover-jotter-print">Hard Cover Jotter</a> </li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Wedding Cards</a>
-                                    <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="Premium-invitation-box-print">Invitation Box</a> </li>
-                                        <li> <a class="dropdown-item " href="wedding-invitation-card-printing">Wedding Invitation Card</a> </li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Gift Bags</a>
-                                    <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li><a class="dropdown-item" href="branded-bag-prints">All Bags</a></li>
-                                        <li><a class="dropdown-item" href="shopping-paper-bag-print">Shopping Paper Bag</a></li>
-                                        <li> <a class="dropdown-item " href="nylon-shopping-bag-print">Shopping Nylon Bag</a> </li>
-                                        <li> <a class="dropdown-item " href="tote-bag-printing">Tote Bag</a> </li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item" href="face-cap-printing">Face Cap</a></li>
-                                <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Calendars</a>
-                                    <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="custom-calendar-printing">Calendars</a> </li>
-                                        <li> <a class="dropdown-item" href="desk-table-calendar-print">Desk/Table Calendar</a> </li>
-                                        <li> <a class="dropdown-item" href="a3-wall-calendar-print">A3 Calendar</a> </li>
-                                        <li> <a class="dropdown-item" href="a2-wall-calendar-print">A2 Calendar</a> </li>
-
-                                    </ul>
-                                </li>
-                                <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Custom Mugs</a>
-                                    <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item " href="branded-mug-printing ">Coated Mugs</a> </li>
-                                        <li> <a class="dropdown-item" href="magic-mug-print">Magic Mug</a> </li>
-                                        <li> <a class="dropdown-item" href="travel-mug-printing">Travel Mug</a> </li>
-                                    </ul>
-                                </li>
-
-                                
                             </ul>
-                        </li>
-                        
-                        </ul>
-                        </li>
+                            </li>
 
-                        <!-- Nav item 4 link-->
-                        <li class="nav-item"> <a class="nav-link" href="about-pzielng">ABOUT US</a></li>
-                        <li class="nav-item"> <a class="nav-link" href="contact-pzielng">CONTACT</a></li>
+                            <!-- Nav item 4 link-->
+                            <li class="nav-item"> <a class="nav-link" href="about-pzielng">ABOUT US</a></li>
+                            <li class="nav-item"> <a class="nav-link" href="contact-pzielng">CONTACT</a></li>
 
 
                     </ul>
@@ -402,7 +408,7 @@ Main hero START -->
                                     <div class="row g-4 align-items-center px-3-md">
                                         <div class="col-md-6">
                                             <h1 class="display-5">Printing Deals</h1>
-                                                <br>PZIEL gives your brand a unique and creative design finished with top-notch printing material making your brand outstanding from others.</p>
+                                            <br>PZIEL gives your brand a unique and creative design finished with top-notch printing material making your brand outstanding from others.</p>
                                             <!-- Rating -->
                                             <div class="d-flex mt-2">
                                                 <div class="icon-md rounded text-bg-primary"><i class="fas fa-star text-white"></i></div>
@@ -515,7 +521,7 @@ Category START -->
                                     <div class="card bg-transparent">
                                         <img class="card-img" src="assets/products/bike-motorcycle-logistics-delivery-box-branding.jpg" alt="best quality logistics delivery box branding & printing in Lagos abuja Nigeria." title="bike logistics delivery box branding in Lagos, abuja Nigeria.">
                                         <div class="card-body ps-0">
-                                            <h5 class="mb-0"><a href="#" class="stretched-link">Delivery Box Branding</a></h5>
+                                            <h5 class="mb-0"><a href="delivery-box-branding" class="stretched-link">Delivery Box Branding</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -542,7 +548,7 @@ Category START -->
                                     <div class="card bg-transparent">
                                         <img class="card-img" src="assets/products/coffe-cup-branded-cup-printing.jpg" alt="best quality cup branding in lagos, Abuja, nigeria." title="quality cup design & printing">
                                         <div class="card-body ps-0">
-                                            <h5 class="mb-0"><a href="#" class="stretched-link">Branded Cup</a></h5>
+                                            <h5 class="mb-0"><a href="travel-mug-printing" class="stretched-link">Branded Cup</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -651,7 +657,7 @@ Best selling product START -->
                                 </div>
                                 <!-- Title -->
                                 <h5 class="card-title">
-                                    <a href="shop-detail.html">Jewelry Box</a>
+                                    <a href="branded-box-printing">Box Branding</a>
                                 </h5>
                             </div>
 
@@ -853,27 +859,27 @@ Best selling product START -->
                     <!-- Product item END -->
                     <!-- Product rating START -->
                     <div id="item-5">
-                            <!-- Progress bar item -->
-                            <h6 class="mt-4">Price</h6>
-                            <div class="progress progress-percent-bg progress-md">
-                                <div class="progress-bar progress-bar-striped progress-bar-animated bg-info" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"><span class="progress-percent">8.0</span></div>
-                            </div>
-                            <!-- Progress bar item -->
-                            <h6 class="mt-4">Design</h6>
-                            <div class="progress progress-percent-bg progress-md">
-                                <div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"><span class="progress-percent">7.5</span></div>
-                            </div>
-                            <!-- Progress bar item -->
-                            <h6 class="mt-4">Quality </h6>
-                            <div class="progress progress-percent-bg progress-md">
-                                <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"><span class="progress-percent">9.5</span></div>
-                            </div>
+                        <!-- Progress bar item -->
+                        <h6 class="mt-4">Price</h6>
+                        <div class="progress progress-percent-bg progress-md">
+                            <div class="progress-bar progress-bar-striped progress-bar-animated bg-info" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"><span class="progress-percent">8.0</span></div>
+                        </div>
+                        <!-- Progress bar item -->
+                        <h6 class="mt-4">Design</h6>
+                        <div class="progress progress-percent-bg progress-md">
+                            <div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"><span class="progress-percent">7.5</span></div>
+                        </div>
+                        <!-- Progress bar item -->
+                        <h6 class="mt-4">Quality </h6>
+                        <div class="progress progress-percent-bg progress-md">
+                            <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"><span class="progress-percent">9.5</span></div>
                         </div>
                     </div>
-                    <!--rating end-->
-
                 </div>
-                <!-- Product END -->
+                <!--rating end-->
+
+            </div>
+            <!-- Product END -->
             </div>
         </section>
         <!-- =======================
@@ -923,8 +929,8 @@ Footer START -->
                     <h6 class="mb-2 text-white">Contact us</h6>
                     <ul class="nav flex-column text-primary-hover">
                         <li class="nav-item"><a class="nav-link" href="contact-pzielng"><i class="fs-5 bi bi-geo-alt me-3"></i>34, Oguntolu Street Shomolu, Lagos, Nigeria</a></li>
-                        <li class="nav-item"><a class="nav-link" href="mailto:pzielng@gmail.com"><i class="far fa-envelope fa-fw me-3"></i> pziel.ng@gmail.com</a></li>
-                        <li class="nav-item"><a class="nav-link" href="tel:+2347040004215"><i class="fas fa-headphones-alt fa-fw me-3"></i> +234 704 000 4215</a></li>
+                        <li class="nav-item"><a class="nav-link" href="mailto:pzielng@gmail.com"><i class="far fa-envelope fa-fw me-3"></i> yumaribprints@gmail.com</a></li>
+                        <li class="nav-item"><a class="nav-link" href="tel:+2347040004215"><i class="fas fa-headphones-alt fa-fw me-3"></i> +234 913 250 1449</a></li>
                         <li class="nav-item"><i class="fas bi bi-clock me-3"></i> <span class="text-primary">Mon - Fri:</span> 09:00 - 18:00.
                             <span class="text-primary">Sat:</span> 10:00 - 18:00. <span class="text-primary">Sun:</span> Closed
                         </li>
@@ -935,7 +941,7 @@ Footer START -->
                 <!-- Footer Widget -->
                 <div class="col-sm-6 col-lg-3 mb-4">
                     <h6 class="mb-2 text-white">Social Media</h6>
-                    <p class="text-muted">Connect with us on social media. Give us a review, Rate us and let us know how we can improve &#129321;</p>
+                    <p class="text-muted">Connect with us on social media. Give us a review, Rate us and let us know how we can improve</p>
                     <a href="https://wa.me/message/M2OHWYN37AWQL1"><i class="fab fa-whatsapp fa-fw text-whatsapp fs-3 text-primary"></i> </a>
                     <a href="https://www.instagram.com/pziel.ng/" target="_blank"><i class="fab fa-instagram fa-fw text-instagram fs-3 text-primary"></i> </a>
                     <a href="https://twitter.com/pzielng" target="_blank"><i class="fab fa-twitter fa-fw text-twitter fs-3 text-primary"></i> </a>
