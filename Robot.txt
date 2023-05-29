@@ -1,3 +1,2 @@
 User-agent: *
-
-Sitemap: https://pzielng.com/sitemap.txt
+Sitemap: https://pzielng.com/sitemap.xml
