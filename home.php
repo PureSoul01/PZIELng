@@ -240,7 +240,7 @@
                                             <li class="dropdown-submenu dropend">
                                                 <a class="dropdown-item dropdown-toggle" href="#">Customized Gift</a>
                                                 <ul class="dropdown-menu" data-bs-popper="none">
-                                                    <li> <a class="dropdown-item" href="#">Branded Gifts</a> </li>
+                                                    <li> <a class="dropdown-item" href="branded-gift-items-printing">Branded Gifts</a> </li>
                                                     <li> <a class="dropdown-item" href="throw-pillow-printing">Throw Pillow</a> </li>
                                                     <li> <a class="dropdown-item" href="keyholder-printing">Key Holder</a> </li>
                                                     <li> <a class="dropdown-item" href="office-box-package">Office Package</a> </li>

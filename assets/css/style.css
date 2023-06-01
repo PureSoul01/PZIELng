@@ -5586,14 +5586,14 @@ fieldset:disabled .btn {
     --bs-pagination-border-color: var(--bs-gray-300);
     --bs-pagination-border-radius: 0.25rem;
     --bs-pagination-hover-color: var(--bs-white);
-    --bs-pagination-hover-bg: #2163e8;
-    --bs-pagination-hover-border-color: #2163e8;
+    --bs-pagination-hover-bg: #21BDC3;
+    --bs-pagination-hover-border-color: #21BDC3;
     --bs-pagination-focus-color: var(--bs-link-hover-color);
     --bs-pagination-focus-bg: var(--bs-gray-200);
     --bs-pagination-focus-box-shadow: 0 0 0 0 rgba(33, 99, 232, 0.25);
     --bs-pagination-active-color: #fff;
-    --bs-pagination-active-bg: #2163e8;
-    --bs-pagination-active-border-color: #2163e8;
+    --bs-pagination-active-bg: #21BDC3;
+    --bs-pagination-active-border-color: #21BDC3;
     --bs-pagination-disabled-color: var(--bs-gray-400);
     --bs-pagination-disabled-bg: var(--bs-body-bg);
     --bs-pagination-disabled-border-color: var(--bs-gray-300);
