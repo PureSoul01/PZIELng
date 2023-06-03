@@ -15,14 +15,14 @@
 
         gtag('config', 'UA-265902762-1');
     </script>
-    <title>PZIEL | Best Printing & Branding Company in Lagos Nigeria.</title>
+    <title>PZIEL | Printing & Branding Company in Lagos Nigeria.</title>
     <!-- Meta Tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="keywords" content=" Logo Price ">
+    <meta name="keywords" content=" Beautiful Logo design Price, flyer design, poster, business card wedding school yearbook programme best quality printing company in lagos, nigeria.">
     <meta name="author" content="Alubankudi Idris Akorede">
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'  />
-    <meta name="description" content="Best printing Company that provides quality printing and unique graphics design in lagos, abuja Nigeria.">
+    <meta name="description" content="Online best quality printing and creative graphics design in Lagos, Nigeria.">
 
 
     <!--Start of Tawk.to Script-->
@@ -204,8 +204,9 @@
                                                     <li>
                                                         <a class="dropdown-item" href="x-banner-print">X-Banner</a>
                                                     </li>
-<li> <a class="dropdown-item" href="vehicle-car-branding">Vehicle Branding</a> </li>
-                                                    <li> <a class="dropdown-item" href="backdrop-banner-print">Backdrop Banner</a> </li>                                                </li>
+                                                    <li> <a class="dropdown-item" href="vehicle-car-branding">Vehicle Branding</a> </li>
+                                                    <li> <a class="dropdown-item" href="backdrop-banner-print">Backdrop Banner</a> </li>
+                                                </li>
 
                                     </ul>
                                     </li>
@@ -519,9 +520,9 @@ Category START -->
                                 <!-- Category item -->
                                 <div>
                                     <div class="card bg-transparent">
-                                        <img class="card-img" src="assets/products/bike-motorcycle-logistics-delivery-box-branding.jpg" alt="best quality logistics delivery box branding & printing in Lagos abuja Nigeria." title="bike logistics delivery box branding in Lagos, abuja Nigeria.">
+                                        <img class="card-img" src="assets/products/bike-motorcycle-logistics-delivery-box-branding.jpg" alt="best quality logistics dispatch delivery box branding & printing in Lagos abuja Nigeria." title="dispatch bike delivery box branding in Lagos, abuja Nigeria.">
                                         <div class="card-body ps-0">
-                                            <h5 class="mb-0"><a href="delivery-box-branding" class="stretched-link">Delivery Box Branding</a></h5>
+                                            <h5 class="mb-0"><a href="delivery-box-branding" class="stretched-link">Dispatch Delivery Box Branding</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -530,7 +531,7 @@ Category START -->
                                     <div class="card bg-transparent">
                                         <img class="card-img" src="assets/products/A4-A5-A6-notepad-jotter-design-&-printing-quality.jpg" alt="best quality Hard Cover jotter Design & printing in lagos abuja nigeria" title="hard cover spiral jotter Design & printing">
                                         <div class="card-body ps-0">
-                                            <h5 class="mb-0"><a href="notepad-jotter-printing.html" class="stretched-link">Notepad/Jotter</a></h5>
+                                            <h5 class="mb-0"><a href="notepad-jotter-printing.html" class="stretched-link">Notepad & Jotters</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -539,7 +540,7 @@ Category START -->
                                     <div class="card bg-transparent">
                                         <img class="card-img" src="assets/products/company-business-standard-id-card-design-&-printing-in-lagos-nigeria.jpg" alt="Best quality ID card Design & Printing in lagos, nigeria." title="ID card Design & Printing">
                                         <div class="card-body ps-0">
-                                            <h5 class="mb-0"><a href="standard-id-card-printing" class="stretched-link">Brand Identity Card</a></h5>
+                                            <h5 class="mb-0"><a href="standard-id-card-printing" class="stretched-link">ID Card Print</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -606,7 +607,7 @@ Best selling product START -->
                         <div class="card border p-3 h-100">
                             <div class="position-relative">
                                 <!-- Image -->
-                                <a href="premium-business-card-printing.html#goldFoil" class="position-relative z-index-9"><img class="card-img" src="assets/products/luxury-business-card-foiled-premium card.jpg" alt="best quality business-card-printing-in-Lagos-nigeria" title="business card design & printing in lagos"></a>
+                                <a href="premium-business-card-printing.html#goldFoil" class="position-relative z-index-9"><img class="card-img" src="assets/products/luxury-business-card-foiled-premium card.jpg" alt="best quality business-card-printing-in-Lagos-nigeria" title="business card design & printing in lagos nigeria"></a>
                                 <!-- Overlay -->
                                 <div class="card-img-overlay p-0">
                                 </div>
@@ -625,13 +626,13 @@ Best selling product START -->
                                     </ul>
                                 </div>
                                 <!-- Title -->
-                                <h5 class="card-title"><a href="premium-business-card-printing.html#goldFoil">Gold foil Card</a></h5>
+                                <h5 class="card-title"><a href="premium-business-card-printing.html#goldFoil">Business Card</a></h5>
                             </div>
 
                             <!-- Card footer -->
                             <div class="card-footer text-center p-0">
                                 <!-- Button -->
-                                <a href="https://wa.me/message/M2OHWYN37AWQL1" class="btn btn-sm btn-primary-soft mb-0"> Order Now</a>
+                                <a href="premium-business-card-printing" class="btn btn-sm btn-primary-soft mb-0"> Order Now</a>
                             </div>
                         </div>
                     </div>
@@ -641,7 +642,7 @@ Best selling product START -->
                     <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
-                            <a href="shop-detail.html"><img class="card-img" src="assets/products/box branding in lagos abuja nigeria.jpg" alt="box printing in lagos" title="box branding with foil effect"></a>
+                            <a href="shop-detail.html"><img class="card-img" src="assets/products/box branding in lagos abuja nigeria.jpg" alt="best quality luxury gift box printing in lagos nigeria" title="Gift box design & printing"></a>
 
                             <!-- Card body -->
                             <div class="card-body text-center p-3 px-0">
@@ -664,7 +665,7 @@ Best selling product START -->
                             <!-- Card footer -->
                             <div class="card-footer text-center p-0">
                                 <!-- Button -->
-                                <a href="#" class="btn btn-sm btn-primary-soft mb-0">Order Now</a>
+                                <a href="branded-box-printing" class="btn btn-sm btn-primary-soft mb-0">Order Now</a>
                             </div>
                         </div>
                     </div>
@@ -674,7 +675,7 @@ Best selling product START -->
                     <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
-                            <a href="wedding-invitation-card-printing.html#premiumWeddingCard"><img class="card-img" src="assets/products/quality-gold-foil-wedding-invitation-invite-card-design-and-printing.jpg" alt="premium wedding-invitation-card-printing-in-lagos-nigeria-africa" title="Gold foil-wedding-invitation-card"></a>
+                            <a href="wedding-invitation-card-printing.html#premiumWeddingCard"><img class="card-img" src="assets/products/quality-gold-foil-wedding-invitation-invite-card-design-and-printing.jpg" alt="premium wedding-invitation-card-printing-in-lagos-nigeria-africa" title="Gold foil wedding invitation card design"></a>
 
                             <!-- Card body -->
                             <div class="card-body text-center p-3 px-0">
@@ -695,7 +696,7 @@ Best selling product START -->
                             <!-- Card footer -->
                             <div class="card-footer text-center p-0">
                                 <!-- Button -->
-                                <a href="#" class="btn btn-sm btn-primary-soft mb-0">Order Now</a>
+                                <a href="wedding-invitation-card-printing" class="btn btn-sm btn-primary-soft mb-0">Order Now</a>
                             </div>
                         </div>
                     </div>
@@ -705,7 +706,7 @@ Best selling product START -->
                     <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
-                            <a href="tshirt-printing"><img class="card-img" src="assets/products/tshirt-cloth-top-design-and-print.jpg" alt="tshirt printing & design in lagos nigeria africa" title="tshirt design & print in lagos nigeria"></a>
+                            <a href="tshirt-printing"><img class="card-img" src="assets/products/tshirt-cloth-top-design-and-print.jpg" alt="Branded tshirt printing & design in lagos nigeria" title="customized tshirt design & print in lagos nigeria"></a>
 
                             <!-- Card body -->
                             <div class="card-body text-center p-3 px-0">
@@ -726,7 +727,7 @@ Best selling product START -->
                             <!-- Card footer -->
                             <div class="card-footer text-center p-0">
                                 <!-- Button -->
-                                <a href="#" class="btn btn-sm btn-primary-soft mb-0">Order Now</a>
+                                <a href="tshirt-printing" class="btn btn-sm btn-primary-soft mb-0">Order Now</a>
                             </div>
                         </div>
                     </div>
@@ -736,7 +737,7 @@ Best selling product START -->
                     <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
-                            <a href="shop-detail.html"><img class="card-img" src="assets/products/van-car-bus-branding-ffront-view.jpg" alt="car branding,branded bus, branded car" title="car van branding in lagos, abuja, nigeria."></a>
+                            <a href="vehicle-car-branding"><img class="card-img" src="assets/products/van-car-bus-branding-ffront-view.jpg" alt="bike branding car branding,branded bus, branded car" title="vehicle bus branding in lagos, abuja, nigeria."></a>
 
                             <!-- Card body -->
                             <div class="card-body text-center p-3 px-0">
@@ -751,7 +752,7 @@ Best selling product START -->
                                     </ul>
                                 </div>
                                 <!-- Title -->
-                                <h5 class="card-title"><a href="shop-detail.html">Van Car Branding</a></h5>
+                                <h5 class="card-title"><a href="vehicle-car-branding">Vehicle Car Branding</a></h5>
                                 <div class="d-flex align-items-center justify-content-center">
                                 </div>
                             </div>
@@ -759,7 +760,7 @@ Best selling product START -->
                             <!-- Card footer -->
                             <div class="card-footer text-center p-0">
                                 <!-- Button -->
-                                <a href="#" class="btn btn-sm btn-primary-soft mb-0"></i>Order Now</a>
+                                <a href="vehicle-car-branding" class="btn btn-sm btn-primary-soft mb-0"></i>Order Now</a>
                             </div>
                         </div>
                     </div>
@@ -769,7 +770,7 @@ Best selling product START -->
                     <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
-                            <a href="premium-business-card-printing.html#premiumCard"><img class="card-img" src="assets/products/gold-foil-business-card-best-quality.jpg" alt="Best quality gold-foil-business card design and printing in lagos nigeria" title="Premium Gold foil Business Card "></a>
+                            <a href="premium-business-card-printing.html#premiumCard"><img class="card-img" src="assets/products/gold-foil-business-card-best-quality.jpg" alt="Best quality gold-foil-business card design and printing in lagos nigeria" title="Premium Gold foil Business Card design"></a>
 
                             <!-- Card body -->
                             <div class="card-body text-center p-3 px-0">
@@ -790,7 +791,7 @@ Best selling product START -->
                             <!-- Card footer -->
                             <div class="card-footer text-center p-0">
                                 <!-- Button -->
-                                <a href="#" class="btn btn-sm btn-primary-soft mb-0"></i>Order Now</a>
+                                <a href="premium-business-card-printing" class="btn btn-sm btn-primary-soft mb-0"></i>Order Now</a>
                             </div>
                         </div>
                     </div>
@@ -800,7 +801,7 @@ Best selling product START -->
                     <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
-                            <a href="shopping-paper-bag-print"><img class="card-img" src="assets/products/a2-a3-a1-large-gift-shopping-paper-bag-design-and-printing.jpg" alt="Best shopping Paper bag Design & printing in Lagos nigeria" title="shopping paper bag design & printing"></a>
+                            <a href="shopping-paper-bag-print"><img class="card-img" src="assets/products/shopping-gift-paper-bag-design-and-printing-in-lagos-nigeria.jpg" alt="Best shopping Gift Paper bag Design & printing in Lagos nigeria" title="Gift paper bag design & printing"></a>
 
                             <!-- Card body -->
                             <div class="card-body text-center p-3 px-0">
@@ -815,13 +816,13 @@ Best selling product START -->
                                     </ul>
                                 </div>
                                 <!-- Title -->
-                                <h5 class="card-title"><a href="shopping-paper-bag-print">Shopping Paper Bag</a></h5>
+                                <h5 class="card-title"><a href="shopping-paper-bag-print">Paper Bag</a></h5>
                             </div>
 
                             <!-- Card footer -->
                             <div class="card-footer text-center p-0">
                                 <!-- Button -->
-                                <a href="#" class="btn btn-sm btn-primary-soft mb-0"></i>Order Now</a>
+                                <a href="shopping-paper-bag-print" class="btn btn-sm btn-primary-soft mb-0"></i>Order Now</a>
                             </div>
                         </div>
                     </div>
@@ -831,7 +832,7 @@ Best selling product START -->
                     <div class="col-6 col-md-4 col-lg-3">
                         <div class="card border p-3 h-100">
                             <!-- Image -->
-                            <a href="notepad-jotter-printing.html"><img class="card-img" src="assets/products/jotter-diary--memo-wedding-jotter-print-front.jpg" alt=""></a>
+                            <a href="notepad-jotter-printing"><img class="card-img" src="assets/products/jotter-diary--memo-wedding-jotter-print-front.jpg" alt="quality wedding jotter design and printing in lagosnigeria." title="birthday jotter memo notepad design and printing"></a>
 
                             <!-- Card body -->
                             <div class="card-body text-center p-3 px-0">
@@ -846,18 +847,530 @@ Best selling product START -->
                                     </ul>
                                 </div>
                                 <!-- Title -->
-                                <h5 class="card-title"><a href="notepad-jotter-printing.html">Hard Cover Jotter</a></h5>
+                                <h5 class="card-title"><a href="notepad-jotter-printing">Hard Cover Jotter</a></h5>
                             </div>
 
                             <!-- Card footer -->
                             <div class="card-footer text-center p-0">
                                 <!-- Button -->
-                                <a href="#" class="btn btn-sm btn-primary-soft mb-0"></i>Order Now</a>
+                                <a href="notepad-jotter-printing" class="btn btn-sm btn-primary-soft mb-0"></i>Order Now</a>
                             </div>
                         </div>
                     </div>
                     <!-- Product item END -->
-                    <!-- Product rating START -->
+                    <!-- Product item START -->
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="card border p-3 h-100">
+                            <div class="position-relative">
+                                <!-- Image -->
+                                <a href="tshirt-printing" class="position-relative z-index-9"><img class="card-img" src="assets/products/brand-vneck-roundneck-top-quality-t-shirt-design-and-printing-in-lagos.jpg" alt="best quality tshirt design & printing in lagos nigeria" title="best quality custom company tshirt design & Print"></a>
+                                <!-- Overlay -->
+                                <div class="card-img-overlay p-0">
+                                </div>
+                            </div>
+
+                            <!-- Card body -->
+                            <div class="card-body text-center p-3 px-0">
+                                <!-- Badge and price -->
+                                <div class="d-flex justify-content-center mb-2">
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-primary"></i></li>
+                                    </ul>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title"><a href="tshirt-printing">Custom T-shirt</a></h5>
+                            </div>
+
+                            <!-- Card footer -->
+                            <div class="card-footer text-center p-0">
+                                <!-- Button -->
+                                <a href="tshirt-printing" class="btn btn-sm btn-primary-soft mb-0"> Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Product item END -->
+
+                    <!-- Product item START -->
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="card border p-3 h-100">
+                            <!-- Image -->
+                            <a href="tote-bag-printing"><img class="card-img" src="assets/products/gift-bag-tote-bag-design-and-printing-in-lagos-nigeria-africa.jpg" alt="best quality tote bag design & printing in lagos nigeria." title="Gift tote bag design & printing"></a>
+
+                            <!-- Card body -->
+                            <div class="card-body text-center p-3 px-0">
+                                <!-- Badge and price -->
+                                <div class="d-flex justify-content-center mb-2">
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-primary"></i></li>
+                                    </ul>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title">
+                                    <a href="tote-bag-printing">Tote Bag</a>
+                                </h5>
+                            </div>
+
+                            <!-- Card footer -->
+                            <div class="card-footer text-center p-0">
+                                <!-- Button -->
+                                <a href="tote-bag-printing" class="btn btn-sm btn-primary-soft mb-0">Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Product item END -->
+
+                    <!-- Product item START -->
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="card border p-3 h-100">
+                            <!-- Image -->
+                            <a href="backdrop-banner-print"><img class="card-img" src="assets/products/church-advert-banner-bill-board-roll-up-backdrop-banner-design-and-print-in-nigeria-price.jpg" alt="Best Quality Backdrop Banner Design & printing in lagos nigeria." title="Event backdrop banner design & print"></a>
+
+                            <!-- Card body -->
+                            <div class="card-body text-center p-3 px-0">
+                                <!-- Badge and price -->
+                                <div class="d-flex justify-content-center mb-2">
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-primary"></i></li>
+                                    </ul>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title"><a href="backdrop-banner-print">Backdrop Banner</a></h5>
+                            </div>
+
+                            <!-- Card footer -->
+                            <div class="card-footer text-center p-0">
+                                <!-- Button -->
+                                <a href="backdrop-banner-print" class="btn btn-sm btn-primary-soft mb-0">Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Product item END -->
+
+                    <!-- Product item START -->
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="card border p-3 h-100">
+                            <!-- Image -->
+                            <a href="trifold-brochure-printing"><img class="card-img" src="assets/products/trifold-brochure-printing-company-in-lagos.jpg" alt="Quality & Creative trifold brochure design and printing in lagos" title="creative topnotch trifold brochure design and printing"></a>
+
+                            <!-- Card body -->
+                            <div class="card-body text-center p-3 px-0">
+                                <!-- Badge and price -->
+                                <div class="d-flex justify-content-center mb-2">
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-primary"></i></li>
+                                    </ul>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title"><a href="trifold-brochure-printing">Tri-fold Brochure</a></h5>
+                            </div>
+
+                            <!-- Card footer -->
+                            <div class="card-footer text-center p-0">
+                                <!-- Button -->
+                                <a href="trifold-brochure-printing" class="btn btn-sm btn-primary-soft mb-0">Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Product item END -->
+
+                    <!-- Product item START -->
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="card border p-3 h-100">
+                            <!-- Image -->
+                            <a href="face-cap-printing"><img class="card-img" src="assets/products/quality-face-cap-design-and-printing-in-lagos-nigeria.jpg" alt="Quality Face Cap branding design and printing in lagos" title="Branded face cap design and print"></a>
+
+                            <!-- Card body -->
+                            <div class="card-body text-center p-3 px-0">
+                                <!-- Badge and price -->
+                                <div class="d-flex justify-content-center mb-2">
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-primary"></i></li>
+                                    </ul>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title"><a href="face-cap-printing">Branded Face Cap</a></h5>
+                                <div class="d-flex align-items-center justify-content-center">
+                                </div>
+                            </div>
+
+                            <!-- Card footer -->
+                            <div class="card-footer text-center p-0">
+                                <!-- Button -->
+                                <a href="face-cap-printing" class="btn btn-sm btn-primary-soft mb-0"></i>Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Product item END -->
+
+                    <!-- Product item START -->
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="card border p-3 h-100">
+                            <!-- Image -->
+                            <a href="funeral-program-print"><img class="card-img" src="assets/products/a4-size-burial-programme-portrait-design-printing-in-lagos-state-nigeria-price.jpg" alt="Best quality Funeral, Burial Program and service of songs design and printing in lagos nigeria"
+                                    title="funeral programme and service of songs design and printing"></a>
+
+                            <!-- Card body -->
+                            <div class="card-body text-center p-3 px-0">
+                                <!-- Badge and price -->
+                                <div class="d-flex justify-content-center mb-2">
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-primary"></i></li>
+                                    </ul>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title"><a href="funeral-program-print">Funeral Programme</a></h5>
+                            </div>
+
+                            <!-- Card footer -->
+                            <div class="card-footer text-center p-0">
+                                <!-- Button -->
+                                <a href="funeral-program-print" class="btn btn-sm btn-primary-soft mb-0"></i>Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Product item END -->
+
+                    <!-- Product item START -->
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="card border p-3 h-100">
+                            <!-- Image -->
+                            <a href="branded-mug-printing"><img class="card-img" src="assets/products/mug-design-and-printing-wedding-birthday-mug-print-mug-printing-in-lagos-nigeria-africa-price.jpg" alt="birthday, wedding, customized branded mug Design & printing in Lagos nigeria"
+                                    title="Best quality Customized Mug design & printing"></a>
+
+                            <!-- Card body -->
+                            <div class="card-body text-center p-3 px-0">
+                                <!-- Badge and price -->
+                                <div class="d-flex justify-content-center mb-2">
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-primary"></i></li>
+                                    </ul>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title"><a href="branded-mug-printing">Customized Mug</a></h5>
+                            </div>
+
+                            <!-- Card footer -->
+                            <div class="card-footer text-center p-0">
+                                <!-- Button -->
+                                <a href="branded-mug-printing" class="btn btn-sm btn-primary-soft mb-0"></i>Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Product item END -->
+
+                    <!-- Product item START -->
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="card border p-3 h-100">
+                            <!-- Image -->
+                            <a href="brochure-printing"><img class="card-img" src="assets/products/bi-fold-brochure-company-profile-printing-company-in-lagos-nigeria.jpg" alt="best quality business brochure design and printing in lagos nigeria." title="bifold brochure design and printing"></a>
+
+                            <!-- Card body -->
+                            <div class="card-body text-center p-3 px-0">
+                                <!-- Badge and price -->
+                                <div class="d-flex justify-content-center mb-2">
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-primary"></i></li>
+                                    </ul>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title"><a href="brochure-printing">Bifold Brochure</a></h5>
+                            </div>
+
+                            <!-- Card footer -->
+                            <div class="card-footer text-center p-0">
+                                <!-- Button -->
+                                <a href="brochure-printing" class="btn btn-sm btn-primary-soft mb-0"></i>Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Product item START -->
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="card border p-3 h-100">
+                            <div class="position-relative">
+                                <!-- Image -->
+                                <a href="letterhead-design-and-printing" class="position-relative z-index-9"><img class="card-img" src="assets/products/office-letterhead-design-and-printing-in-lagos-nigeria.jpg" alt="best quality company office letterhead design and printing in lagos, abuja nigeria" title="company office letterhead design and print"></a>
+                                <!-- Overlay -->
+                                <div class="card-img-overlay p-0">
+                                </div>
+                            </div>
+
+                            <!-- Card body -->
+                            <div class="card-body text-center p-3 px-0">
+                                <!-- Badge and price -->
+                                <div class="d-flex justify-content-center mb-2">
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-primary"></i></li>
+                                    </ul>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title"><a href="letterhead-design-and-printing">Office Letterhead</a></h5>
+                            </div>
+
+                            <!-- Card footer -->
+                            <div class="card-footer text-center p-0">
+                                <!-- Button -->
+                                <a href="letterhead-design-and-printing" class="btn btn-sm btn-primary-soft mb-0"> Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Product item END -->
+
+                    <!-- Product item START -->
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="card border p-3 h-100">
+                            <!-- Image -->
+                            <a href="shop-detail.html"><img class="card-img" src="assets/products/custom-branded-luxury-gift-box-design-and-print-in-nigeria.jpg" alt="best quality luxury gift box printing price in lagos nigeria" title="Luxury Gift box design & printing"></a>
+
+                            <!-- Card body -->
+                            <div class="card-body text-center p-3 px-0">
+                                <!-- Badge and price -->
+                                <div class="d-flex justify-content-center mb-2">
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-primary"></i></li>
+                                    </ul>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title">
+                                    <a href="branded-box-printing">Gift Packaging Box</a>
+                                </h5>
+                            </div>
+
+                            <!-- Card footer -->
+                            <div class="card-footer text-center p-0">
+                                <!-- Button -->
+                                <a href="branded-box-printing" class="btn btn-sm btn-primary-soft mb-0">Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Product item END -->
+
+                    <!-- Product item START -->
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="card border p-3 h-100">
+                            <!-- Image -->
+                            <a href="desk-table-calendar-print"><img class="card-img" src="assets/products/table+calendar+wall+calendar+calendar+design+printing+in+nigeria.png" alt="Top Quality desk table calendar design and printing in lagos, nigeria." title="Desk Table Calendar Design"></a>
+
+                            <!-- Card body -->
+                            <div class="card-body text-center p-3 px-0">
+                                <!-- Badge and price -->
+                                <div class="d-flex justify-content-center mb-2">
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-primary"></i></li>
+                                    </ul>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title"><a href="wedding-invitation-card-printing.html#premiumWeddingCard">Table Calendar</a></h5>
+                            </div>
+
+                            <!-- Card footer -->
+                            <div class="card-footer text-center p-0">
+                                <!-- Button -->
+                                <a href="desk-table-calendar-print" class="btn btn-sm btn-primary-soft mb-0">Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Product item END -->
+
+                    <!-- Product item START -->
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="card border p-3 h-100">
+                            <!-- Image -->
+                            <a href="label-sticker-printing"><img class="card-img" src="assets/products/product-label-sticker-design-and-printing-in-lagos-nigeria..jpg" alt="top quality beautiful product label sticker design & printing in lagos nigeria" title="product package sticker label design and print"></a>
+
+                            <!-- Card body -->
+                            <div class="card-body text-center p-3 px-0">
+                                <!-- Badge and price -->
+                                <div class="d-flex justify-content-center mb-2">
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-primary"></i></li>
+                                    </ul>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title"><a href="label-sticker-printing">Sticker Label</a></h5>
+                            </div>
+
+                            <!-- Card footer -->
+                            <div class="card-footer text-center p-0">
+                                <!-- Button -->
+                                <a href="label-sticker-printing" class="btn btn-sm btn-primary-soft mb-0">Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Product item END -->
+
+                    <!-- Product item START -->
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="card border p-3 h-100">
+                            <!-- Image -->
+                            <a href="flyer-printing"><img class="card-img" src="assets/products/restaurant-design-food-pizza-flyer-design-and-printing-in-lagos-nigeria-africa.jpg" alt="quality restaurant food flyer printing in lagos nigeria" title="restaurant business creative flyer design"></a>
+
+                            <!-- Card body -->
+                            <div class="card-body text-center p-3 px-0">
+                                <!-- Badge and price -->
+                                <div class="d-flex justify-content-center mb-2">
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-primary"></i></li>
+                                    </ul>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title"><a href="flyer-printing">Business Flyer</a></h5>
+                                <div class="d-flex align-items-center justify-content-center">
+                                </div>
+                            </div>
+
+                            <!-- Card footer -->
+                            <div class="card-footer text-center p-0">
+                                <!-- Button -->
+                                <a href="flyer-printing" class="btn btn-sm btn-primary-soft mb-0"></i>Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Product item END -->
+
+                    <!-- Product item START -->
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="card border p-3 h-100">
+                            <!-- Image -->
+                            <a href="magic-mug-print"><img class="card-img" src="assets/products/magic-mug-best-printing-and-design-in-lagos-nigeria.jpg" alt="Best quality magic mug design & printing in lagos nigeria" title="Magic mug design and printing in lagos nigeria"></a>
+
+                            <!-- Card body -->
+                            <div class="card-body text-center p-3 px-0">
+                                <!-- Badge and price -->
+                                <div class="d-flex justify-content-center mb-2">
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-primary"></i></li>
+                                    </ul>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title"><a href="magic-mug-print">Magic Mug</a></h5>
+                            </div>
+
+                            <!-- Card footer -->
+                            <div class="card-footer text-center p-0">
+                                <!-- Button -->
+                                <a href="magic-mug-print" class="btn btn-sm btn-primary-soft mb-0"></i>Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Product item START -->
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="card border p-3 h-100">
+                            <!-- Image -->
+                            <a href="travel-mug-printing"><img class="card-img" src="assets/products/coffee-travel-mug-print-and-design-in-lagos-nigeria.jpg" alt="branded customize travel mug printing in lagos nigeria" title="Branded Travel mug printing"></a>
+
+                            <!-- Card body -->
+                            <div class="card-body text-center p-3 px-0">
+                                <!-- Badge and price -->
+                                <div class="d-flex justify-content-center mb-2">
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-primary"></i></li>
+                                    </ul>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title"><a href="travel-mug-printing">Travel Mug</a></h5>
+                            </div>
+
+                            <!-- Card footer -->
+                            <div class="card-footer text-center p-0">
+                                <!-- Button -->
+                                <a href="travel-mug-printing" class="btn btn-sm btn-primary-soft mb-0"></i>Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Product item END -->
+
+                    <!-- Product item START -->
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="card border p-3 h-100">
+                            <!-- Image -->
+                            <a href="menu-card-printing"><img class="card-img" src="assets/products/creative-single-sided-food-restaurant-menu-card-printing-and-design-in-lagos-abuja-nigeria.jpg" alt="restaurant & event menu card design and printing" title="restaurant & event menu card design"></a>
+
+                            <!-- Card body -->
+                            <div class="card-body text-center p-3 px-0">
+                                <!-- Badge and price -->
+                                <div class="d-flex justify-content-center mb-2">
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-primary"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-primary"></i></li>
+                                    </ul>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title"><a href="menu-card-printing">Menu Cards</a></h5>
+                            </div>
+
+                            <!-- Card footer -->
+                            <div class="card-footer text-center p-0">
+                                <!-- Button -->
+                                <a href="menu-card-printing" class="btn btn-sm btn-primary-soft mb-0"></i>Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- =======================
+Best selling product END -->
+
                     <div id="item-5">
                         <!-- Progress bar item -->
                         <h6 class="mt-4">Price</h6>
@@ -877,13 +1390,30 @@ Best selling product START -->
                     </div>
                 </div>
                 <!--rating end-->
-
             </div>
-            <!-- Product END -->
+            <hr class="my-5">
+            <div class="container ">
+                <div class="row justify-content-center my-5 ">
+                    <div class="col-10 col-md-3 mx-auto mx-md-2 rounded my-2 my-md-0 px-3 py-2 rounded bg-body shadow text-start ">
+                        <i class="bi bi-shield-check fs-1 text-primary "></i>
+                        <h6 class="my-3 ">Quality</h6>
+                        <p class="mt-2 ">You can rest assured of getting 100% quality of the product you ordered as described above.</p>
+                    </div>
+                    <div class="col-10 col-md-3 mx-auto mx-md-2 rounded my-2 my-md-0 px-3 py-2 rounded bg-body shadow text-start ">
+                        <i class="bi bi-truck fs-1 text-primary "></i>
+                        <h6 class="my-3 ">Delivery</h6>
+                        <p class="mt-2 ">We deliver to your doorstep anywhere in Nigeria, For other countries please reach out to our support team.
+                        </p>
+                    </div>
+                    <div class="col-10 col-md-3 mx-auto mx-md-2 rounded my-2 my-md-0 px-3 py-2 rounded bg-body shadow text-start ">
+                        <i class="bi bi-headset fs-1 text-primary "></i>
+                        <h6 class="my-3 ">Support Team</h6>
+                        <p class="mt-2 ">You've got an enquiry or curious about anything, Please don't hesitate to contact us @ <b>(+234) 704 000 4215</b></p>
+                    </div>
+
+                </div>
             </div>
         </section>
-        <!-- =======================
-Best selling product END -->
         <div class="container my-2 my-md-4 mx-auto" style="width:200px"> <a class="btn btn-primary-soft " href="about-pzielng"> LEARN MORE ABOUT US</a></div>
 
 
