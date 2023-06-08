@@ -22,7 +22,7 @@
     <meta name="keywords" content=" Beautiful Logo design Price, flyer design, poster, business card wedding school yearbook programme best quality printing company in lagos, nigeria.">
     <meta name="author" content="Alubankudi Idris Akorede">
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'  />
-    <meta name="description" content="Online best quality printing and creative graphics design in Lagos, Nigeria.">
+    <meta name="description" content="Get a creati">
 
 
     <!--Start of Tawk.to Script-->
