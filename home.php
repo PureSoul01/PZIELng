@@ -1402,13 +1402,13 @@ Best selling product END -->
                     <div class="col-10 col-md-3 mx-auto mx-md-2 rounded my-2 my-md-0 px-3 py-2 rounded bg-body shadow text-start ">
                         <i class="bi bi-truck fs-1 text-primary "></i>
                         <h6 class="my-3 ">Delivery</h6>
-                        <p class="mt-2 ">We deliver to your doorstep anywhere in Nigeria, For other countries please reach out to our support team.
+                        <p class="mt-2 ">Product(s) are delivered to your doorstep within 2-6 working days via GIG Logistics.
                         </p>
                     </div>
                     <div class="col-10 col-md-3 mx-auto mx-md-2 rounded my-2 my-md-0 px-3 py-2 rounded bg-body shadow text-start ">
                         <i class="bi bi-headset fs-1 text-primary "></i>
                         <h6 class="my-3 ">Support Team</h6>
-                        <p class="mt-2 ">You've got an enquiry or curious about anything, Please don't hesitate to contact us @ <b>(+234) 704 000 4215</b></p>
+                        <p class="mt-2 ">You've got an enquiry or curious about anything, Please don't hesitate to contact us @ <b>+234 704 000 4215</b></p>
                     </div>
 
                 </div>
